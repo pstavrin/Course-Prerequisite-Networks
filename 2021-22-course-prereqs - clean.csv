@@ -1,0 +1,772 @@
+﻿department_name,Acronym,course_number,Node_name,course_title,prerequisites,Prereaquisites (clean)
+Aerospace,Ae,100,Ae 100,Research in Aerospace,,
+Aerospace,Ae,101 abc,Ae 101 abc,Fluid Mechanics,"APh 17 or ME 11 abc, and ME 12 or equivalent, ACM 95/100 or equivalent (may be taken concurrently)","APh 17 abc, ME 11 abc, ME 12 abc"
+Aerospace,Ae,102 abc,Ae 102 abc,Mechanics of Structures and Solids,ME 12 abc,ME 12 abc
+Aerospace,Ae,103 ab,Ae 103 ab,Aerospace Control Systems,"CDS 110 (or equivalent), CDS 131 or permission of instructor","CDS 110, CDS 131"
+Aerospace,Ae,104 abc,Ae 104 abc,Experimental Methods,"ACM 95/100 ab or equivalent (may be taken concurrently), Ae/APh/CE/ME 101 abc or equivalent (may be taken concurrently)","ACM 95/100 ab, Ae 101 abc"
+Aerospace,Ae,105 abc,Ae 105 abc,Space Engineering,ME 11 abc and ME 12 abc or equivalent,"ME 11 abc, ME 12 abc"
+Aerospace,Ae,115 ab,Ae 115 ab,Spacecraft Navigation,CDS 110 a,CDS 110
+Aerospace,Ae,118,Ae 118,Classical Thermodynamics,"ME11abc, ME12abc, or equivalent","ME 11 abc, ME 12 abc"
+Aerospace,Ae,120,Ae 120,Combustion Fundamentals,Recommended: ME 118 and 119 or equivalent,"Ae 118, ME 119"
+Aerospace,Ae,150 abc,Ae 150 abc,Aerospace Engineering Seminar,,
+Aerospace,Ae,159,Ae 159,Optical Engineering,"Ph 2, EE/Ae 157, or equivalent; APh 23 desirable","Ph 2 abc, EE 157 ab, APh 23"
+Aerospace,Ae,160 ab,Ae 160 ab,Continuum Mechanics of Fluids and Solids,,
+Aerospace,Ae,165 ab,Ae 165 ab,Mechanics of Composite Materials and Structures,Ae/AM/CE/ME 102 a,Ae 102 abc
+Aerospace,Ae,200,Ae 200,Advanced Research in Aerospace,,
+Aerospace,Ae,201 a,Ae 201 a,Advanced Fluid Mechanics,Ae/APh/CE/ME 101 abc or equivalent; AM 125 abc or ACM/IDS 101 (may be taken concurrently),"Ae 101 abc, ACM 101 ab"
+Aerospace,Ae,204 ab,Ae 204 ab,Technical Fluid Mechanics,Ae/APh/CE/ME 101 abc or equivalent,Ae 101 abc
+Aerospace,Ae,205 ab,Ae 205 ab,Advanced Space Project,Ae105 abc,Ae 105 abc
+Aerospace,Ae,208 abc,Ae 208 abc,GALCIT Colloquium,,
+Aerospace,Ae,213,Ae 213,Mechanics and Materials Aspects of Fracture,Ae/AM/CE/ME 102 abc (concurrently) or equivalent and instructor's permission,Ae 102 abc
+Aerospace,Ae,214,Ae 214,Computational Solid Mechanics,ACM 100 ab or equivalent; CE/AM/Ae 108 ab or equivalent or instructor's permission; Ae/AM/CE/ME 102 abc or instructor's permission,"ACM 95/100 ab, Ae 102 abc, CE 108 ab"
+Aerospace,Ae,215,Ae 215,Dynamic Behavior of Materials,ACM 100 abc or AM 125 abc; Ae/AM/CE/ME 102 abc,"ACM 101 ab, Ae 102 abc"
+Aerospace,Ae,218,Ae 218,Statistical Mechanics,"Ae/ME 118, or equivalent",Ae 118
+Aerospace,Ae,220,Ae 220,Theory of Structures,Ae/AM/CE/ME 102 abc,Ae 102 abc
+Aerospace,Ae,221,Ae 221,Space Structures,,
+Aerospace,Ae,223,Ae 223,Plasticity,Ae/AM/CE/ME 102 abc or instructor's permission,Ae 102 abc
+Aerospace,Ae,225,Ae 225,Special Topics in Solid Mechanics,,
+Aerospace,Ae,232 ab,Ae 232 ab,Computational Fluid Dynamics,Ae/APh/CE/ME 101 abc or equivalent; ACM 100 abc or equivalent,"Ae 101 abc, ACM 95/100 ab"
+Aerospace,Ae,233,Ae 233,Hydrodynamic Stability,Ae/APh/CE/ME 101 abc or equivalent,Ae 101 abc
+Aerospace,Ae,234 ab,Ae 234 ab,Hypersonic Aerodynamics,"Ae/APh/CE/ME 101 abc or equivalent, AM 125 abc, or instructor's permission","Ae 101 abc, ACM 95/100 ab"
+Aerospace,Ae,235,Ae 235,Rarefied Gasdynamics,,
+Aerospace,Ae,237 ab,Ae 237 ab,Nonsteady Gasdynamics,,
+Aerospace,Ae,239 ab,Ae 239 ab,Turbulence,Ae/APh/CE/ME 101 abc; AM 125 abc or ACM/IDS 101,"Ae 101 abc, ACM 101 ab"
+Aerospace,Ae,240,Ae 240,Special Topics in Fluid Mechanics,,
+Aerospace,Ae,241,Ae 241,Special Topics in Experimental Fluid and Solid Mechanics,Ae/APh 104 or equivalent or instructor's permission,Ae 104 abc
+Aerospace,Ae,242,Ae 242,Biological Flows: Propulsion,Ae/APh/CE/ME 101 abc or equivalent or ChE 103 a,"Ae 101 abc, ChE 103 abc"
+Aerospace,Ae,250,Ae 250,Reading and Independent Study,,
+Aerospace,Ae,251 ab,Ae 251 ab,Closed Loop Flow Control,"ACM 100abc, Ae/APh/CE/ME 101abc or equivalent","ACM 95/100 ab, Ae 101 abc"
+Aerospace,Ae,265 ab,Ae 265 ab,"Static and Dynamic Failure of Brittle Solids and Interfaces, from the Micro to the Mega",Ae/AM/CE/ME 102 abc (concurrently) or equivalent and/or instructor's permission,Ae 102 abc
+Aerospace,Ae,121 abc,Ae 121 abc,Space Propulsion,Open to all graduate students and to seniors with instructor's permission,
+Applied & Computational Math,ACM,11,ACM 11,Introduction to Computational Science and Engineering,"Ma 1ab, Co-requisite Ma 1c. CS 1 or prior programming experience recommended","Ma 1 abc, CS 1"
+Applied & Computational Math,ACM,80 abc,ACM 80 abc,Undergraduate Thesis,"instructor's permission, which should be obtained sufficiently early to allow time for planning the research",
+Applied & Computational Math,ACM,81 abc,ACM 81 abc,Undergraduate Projects in Applied and Computational Mathematics,Consent of supervisor is required before registering,
+Applied & Computational Math,ACM,95/100 ab,ACM 95/100 ab,Introductory Methods of Applied Mathematics for the Physical Sciences,"Ma 1 abc, Ma 2 or equivalents","Ma 1 abc, Ma 2/102"
+Applied & Computational Math,ACM,101 ab,ACM 101 ab,Methods of Applied Mathematics,Math 2/102 and ACM 95 ab or equivalent,"Ma 2/102, ACM 95/100 ab"
+Applied & Computational Math,ACM,104,ACM 104,Applied Linear Algebra,"Ma 1 abc, some familiarity with MATLAB, e.g. ACM 11 is desired","Ma 1 abc, ACM 11"
+Applied & Computational Math,ACM,105,ACM 105,Applied Real and Functional Analysis,"Ma 2, Ma 108a, ACM/IDS 104 or equivalent","Ma 2/102, Ma 108 abc, ACM 104"
+Applied & Computational Math,ACM,106 ab,ACM 106 ab,Introductory Methods of Computational Mathematics,"For ACM/EE 106a, Ma 1 abc, Ma 2, Ma 3, ACM 11; for ACM/EE 106b, ACM 95/100 ab or equivalent","Ma 1 abc, Ma 2/102, Ma 3/103, ACM 11, ACM 95/100 ab"
+Applied & Computational Math,ACM,109,ACM 109,Mathematical Modelling,ACM 95/100 ab,ACM 95/100 ab
+Applied & Computational Math,ACM,116,ACM 116,Introduction to Probability Models,"Ma 3 or EE 55, some familiarity with MATLAB, e.g. ACM 11, is desired","Ma 3/103, EE 55, ACM 11"
+Applied & Computational Math,ACM,118,ACM 118,Stochastic Processes and Regression,"CMS/ACM/IDS 107 or equivalent, CMS 117 or equivalent, or permission of the instructor","CMS 107, CMS 117"
+Applied & Computational Math,ACM,154,ACM 154,Inverse Problems and Data Assimilation,"Basic differential equations, linear algebra, probability and statistics: ACM/IDS 104, ACM/EE 106 ab, ACM/EE/IDS 116, IDS/ACM/CS 157 or equivalent","ACM 104, ACM 106 ab, ACM 116, IDS 157"
+Applied & Computational Math,ACM,170,ACM 170,Mathematics of Signal Processing,"ACM/IDS 104, CMS/ACM/IDS 113, and ACM/EE/IDS 116; or instructor's permission","ACM 104, CMS 122, ACM 116"
+Applied & Computational Math,ACM,190,ACM 190,Reading and Independent Study,,
+Applied & Computational Math,ACM,201,ACM 201,Partial Differential Equations,"ACM 95/100 ab, ACM/IDS 101 ab, ACM 11 or equivalent","ACM 95/100 ab, ACM 101 ab, ACM 11"
+Applied & Computational Math,ACM,204,ACM 204,Topics in Linear Algebra and Convexity,CMS/ACM 107 or instructor's permission,CMS 107
+Applied & Computational Math,ACM,206,ACM 206,Topics in Computational Mathematics,ACM 106ab,ACM 106 ab
+Applied & Computational Math,ACM,210,ACM 210,Numerical Methods for PDEs,"ACM 11, 106 or instructor's permission","ACM 11, ACM 106 ab"
+Applied & Computational Math,ACM,213,ACM 213,Topics in Optimization,"ACM/IDS 104, CMS/ACM/IDS 113","ACM 104, CMS 122"
+Applied & Computational Math,ACM,216,ACM 216,"Markov Chains, Discrete Stochastic Processes and Applications",ACM/EE/IDS 116 or equivalent,ACM 116
+Applied & Computational Math,ACM,217,ACM 217,Advanced Topics in Stochastic Analysis,ACM/CMS/EE/IDS 117,CMS 117
+Applied & Computational Math,ACM,256,ACM 256,Special Topics in Applied Mathematics,ACM/IDS 101 or equivalent,ACM 101 ab
+Applied & Computational Math,ACM,257,ACM 257,Special Topics in Financial Mathematics,ACM 95/100 or instructor's permission,ACM 95/100 ab
+Applied & Computational Math,ACM,270,ACM 270,Advanced Topics in Applied and Computational Mathematics,,
+Applied & Computational Math,ACM,300,ACM 300,Research in Applied and Computational Mathematics,,
+Applied Mechanics,AM,127,AM 127,Calculus of Variations,ACM 95/100,ACM 95/100 ab
+Applied Mechanics,AM,150 abc,AM 150 abc,Graduate Engineering Seminar,,
+Applied Mechanics,AM,151,AM 151,Dynamics and Vibration,,
+Applied Mechanics,AM,165,AM 165,Finite Elasticity,Ae/Ge/ME 160 a,Ae 160 ab
+Applied Mechanics,AM,200,AM 200,Advanced Work in Applied Mechanics,,
+Applied Mechanics,AM,201,AM 201,Advanced Topics in Applied Mechanics,,
+Applied Mechanics,AM,252,AM 252,Linear and Nonlinear Waves in Structured Media,,
+Applied Mechanics,AM,300,AM 300,Research in Applied Mechanics,,
+Applied Physics,APh,9 ab,APh 9 ab,Solid-State Electronics for Integrated Circuits,Successful completion of APh/EE 9 a is a prerequisite for enrollment in APh/EE 9 b,
+Applied Physics,APh,17 abc,APh 17 abc,Thermodynamics,"Ma 1 abc, Ph 1 abc","Ma 1 abc, Ph 1 abc"
+Applied Physics,APh,23,APh 23,Demonstration Lectures in Classical and Quantum Photonics,Ph 1 abc,Ph 1 abc
+Applied Physics,APh,24,APh 24,Introductory Optics and Photonics Laboratory,APh 23,APh 23
+Applied Physics,APh,77 bc,APh 77 bc,Laboratory in Applied Physics,,
+Applied Physics,APh,78 abc,APh 78 abc,"Senior Thesis, Experimental",instructor's permission,
+Applied Physics,APh,79 abc,APh 79 abc,"Senior Thesis, Theoretical",instructor's permission,
+Applied Physics,APh,100,APh 100,Advanced Work in Applied Physics,,
+Applied Physics,APh,105 abc,APh 105 abc,States of Matter,APh 17 abc or equivalent,APh 17 abc
+Applied Physics,APh,109,APh 109,Introduction to the Micro/Nanofabrication Lab,,
+Applied Physics,APh,110,APh 110,Topics in Applied Physics,,
+Applied Physics,APh,112 ab,APh 112 ab,Noise and Stochastic Resonance,"Ph 12 abc, ACM 95/100 ab and Ph 106 abc, equivalent background, or instructor's permission","Ph 12 abc, ACM 95/100 ab, Ph 106 abc"
+Applied Physics,APh,114 abc,APh 114 abc,Solid-State Physics,Ph 125 abc or equivalent,Ph 125 abc
+Applied Physics,APh,115,APh 115,Physics of Momentum Transport in Hydrodynamic Systems,ACM 95 or equivalent,ACM 95/100 ab
+Applied Physics,APh,116,APh 116,Physics of Thermal and Mass Transport in Hydrodynamic Systems,ACM 95 or equivalent and APh/Ph 115 or equivalent,"ACM 95/100 ab, APh 115"
+Applied Physics,APh,130,APh 130,Electromagnetic Theory,,
+Applied Physics,APh,132,APh 132,Special Topics in Photonics and Optoelectronics,,
+Applied Physics,APh,138 ab,APh 138 ab,Quantum Hardware and Techniques,Ph 125abc or Ph 127ab or Ph137ab or instructor's permission,"Ph 125 abc, Ph 127 ab, Ph 137 abc"
+Applied Physics,APh,150,APh 150,Topics in Applied Physics,,
+Applied Physics,APh,156 abc,APh 156 abc,Plasma Physics,Ph 106 abc or equivalent,Ph 106 abc
+Applied Physics,APh,183,APh 183,Physics of Semiconductors and Semiconductor Devices,,
+Applied Physics,APh,190 abc,APh 190 abc,Quantum Electronics,Ph 125 or equivalent,Ph 125 abc
+Applied Physics,APh,200,APh 200,Applied Physics Research,,
+Applied Physics,APh,250,APh 250,Advanced Topics in Applied Physics,,
+Applied Physics,APh,256,APh 256,Computational Solid State Physics and Materials Science,Ph125 or equivalent and APh114ab or equivalent,"Ph 125 abc, APh 114 abc"
+Applied Physics,APh,300,APh 300,Thesis Research in Applied Physics,,
+Astrophysics,Ay,1,Ay 1,The Evolving Universe,,
+Astrophysics,Ay,20,Ay 20,Basic Astronomy and the Galaxy,"Ma 1 abc, Ph 1 abc or instructor's permission","Ma 1 abc, Ph 1 abc"
+Astrophysics,Ay,21,Ay 21,Galaxies and Cosmology,"Ma 1 abc, Ph 1 abc or instructor's permission","Ma 1 abc, Ph 1 abc"
+Astrophysics,Ay,30,Ay 30,Introduction to Modern Research,,
+Astrophysics,Ay,31,Ay 31,Writing in Astronomy,,
+Astrophysics,Ay,43,Ay 43,Reading in Astronomy and Astrophysics,,
+Astrophysics,Ay,78 abc,Ay 78 abc,Senior Thesis,"To register, student must obtain approval of the astronomy option representative and the prospective thesis adviser",
+Astrophysics,Ay,101,Ay 101,Physics of Stars,Ay 20 is recommended,Ay 20
+Astrophysics,Ay,102,Ay 102,Physics of the Interstellar Medium,Ay 20 is recommended,Ay 20
+Astrophysics,Ay,104,Ay 104,Relativistic Astrophysics,"Ph 1, Ph 2 ab","Ph 1 abc, Ph 2 abc"
+Astrophysics,Ay,105,Ay 105,Optical Astronomy Instrumentation Lab,Ay 20,Ay 20
+Astrophysics,Ay,107,Ay 107,Introduction to Astronomical Observation,CS1 or equivalent coding experience recommended,CS 1
+Astrophysics,Ay,111 ab,Ay 111 ab,Introduction to Current Astrophysics Research,,
+Astrophysics,Ay,119,Ay 119,Astroinformatics,,
+Astrophysics,Ay,121,Ay 121,Radiative Processes,"Ph106bc, Ph 125 or equivalent (undergraduates)","Ph 106 abc, Ph 125 abc"
+Astrophysics,Ay,122 abc,Ay 122 abc,Astronomical Measurements and Instrumentation,Ph 106bc or equivalent,Ph 106 abc
+Astrophysics,Ay,123,Ay 123,Structure and Evolution of Stars,Ay 101; Ph 125 or equivalent (undergraduates),"Ay 101, Ph 125 abc"
+Astrophysics,Ay,124,Ay 124,Structure and Evolution of Galaxies,Ay 21; Ph 106 or equivalent (undergraduates),"Ay 21, Ph 106 abc"
+Astrophysics,Ay,125,Ay 125,High-Energy Astrophysics,Ph 106 and Ph 125 or equivalent (undergraduates),"Ph 106 abc, Ph 125 abc"
+Astrophysics,Ay,126,Ay 126,Interstellar and Intergalactic Medium,Ay 102 (undergraduates),Ay 102
+Astrophysics,Ay,127,Ay 127,Astrophysical Cosmology,Ay 21; Ph 106 or equivalent (undergraduates),"Ay 21, Ph 106 abc"
+Astrophysics,Ay,141 abc,Ay 141 abc,Research Conference in Astronomy,,
+Astrophysics,Ay,142,Ay 142,Research in Astronomy and Astrophysics,,
+Astrophysics,Ay,143,Ay 143,Reading and Independent Study,,
+Astrophysics,Ay,144,Ay 144,Independent Writing in Astronomy,Ay 142,Ay 142
+Astrophysics,Ay,190,Ay 190,Computational Astrophysics,Ph 20-22 (undergraduates),"Ph 20, Ph 21, Ph 22"
+Astrophysics,Ay,198,Ay 198,Special Topics in the Planetary Sciences,,
+Astrophysics,Ay,211,Ay 211,Contemporary Extragalactic Astronomy,"Ay 123, Ay 124, and Ay 127","Ay 123, Ay 124, Ay 127"
+Astrophysics,Ay,215,Ay 215,Seminar in Theoretical Astrophysics,,
+Astrophysics,Ay,218,Ay 218,Extrasolar Planets,,
+Astrophysics,Ay,219,Ay 219,Elements in the Universe and Galactic Chemical Evolution,"Ay 121, 123, 124, 126","Ay 121, Ay 123, Ay 124, Ay 126"
+Biochemistry & Molecular Biophysics,BMB,170,BMB 170,Biochemistry and Biophysics of Macromolecules and Molecular Assemblies,Ch/Bi 110,Ch 110
+Biochemistry & Molecular Biophysics,BMB,173,BMB 173,Biophysical/Structural Methods,,
+Biochemistry & Molecular Biophysics,BMB,174,BMB 174,Advanced Topics in Biochemistry and Molecular Biophysics,Ch/Bi 110 or equivalent,Ch 110
+Biochemistry & Molecular Biophysics,BMB,178,BMB 178,"Macromolecular Function: kinetics, energetics, and mechanisms",Ch/Bi 110 or equivalent,Ch 110
+Biochemistry & Molecular Biophysics,BMB,202 abc,BMB 202 abc,Biochemistry Seminar Course,,
+Biochemistry & Molecular Biophysics,BMB,230,BMB 230,Macromolecular Structure Determination with Modern X-ray Crystallography Methods,Consent of instructor,
+Biochemistry & Molecular Biophysics,BMB,278,BMB 278,Fundamentals of Molecular Genetics,,
+Biochemistry & Molecular Biophysics,BMB,299,BMB 299,Graduate Research,,
+Bioengineering,BE,1,BE 1,Frontiers in Bioengineering,,
+Bioengineering,BE,25,BE 25,Biophysical Chemistry,"Ch 1 ab, Ma 2","Ch 1 ab, Ma 2/102"
+Bioengineering,BE,98,BE 98,Undergraduate Research in Bioengineering,,
+Bioengineering,BE,99 abc,BE 99 abc,Senior Thesis in Bioengineering,Junior or senior standing and instructor's permission,
+Bioengineering,BE,101,BE 101,Order of Magnitude Biology,none,
+Bioengineering,BE,103 a,BE 103 a,Introduction to Data Analysis in the Biological Sciences,"Bi 1, Bi 1x, Bi 8, or equivalent; or instructor's permission","Bi 1, Bi 8, Bi 1 x"
+Bioengineering,BE,103 b,BE 103 b,Statistical Inference in the Biological Sciences,"BE/Bi 103 a or equivalent; Ma 1 abc and Ma 3, or Bi/CNS/NB 195, or equivalent; or instructor's permission","BE 103 a, Ma 1 abc, Ma 3/103, Bi 195"
+Bioengineering,BE,106,BE 106,Comparative Biomechanics,,
+Bioengineering,BE,107,BE 107,Exploring Biological Principles Through Bio-Inspired Design,none,
+Bioengineering,BE,150,BE 150,Biological Circuit Design,"Bi 1, Bi 8, or equivalent; Ma 2, Bi/CNS/NB 195, or equivalent; or instructor's permission","Bi 1, Bi 8, Ma 2/102, Bi 195"
+Bioengineering,BE,153,BE 153,Case Studies in Systems Physiology,"Bi 8, Bi 9, or equivalent","Bi 8, Bi 9"
+Bioengineering,BE,159,BE 159,Signal Transduction and Mechanics in Morphogenesis,"Bi 8, Bi 9, ACM 95/100 ab, or instructor's permission","Bi 8, Bi 9, ACM 95/100 ab"
+Bioengineering,BE,161,BE 161,Physical Biology of the Cell,"Ph 2 ab and ACM 95/100 ab, or background in differential equations and statistical and quantum mechanics, or instructor's written permission","Ph 2 abc, ACM 95/100 ab"
+Bioengineering,BE,189 ab,BE 189 ab,Design and Construction of Biodevices,BE/EE/MedE 189 a must be taken before BE/EE/MedE 189 b,
+Bioengineering,BE,197,BE 197,Mentoring and Outreach,,
+Bioengineering,BE,200,BE 200,Research in Bioengineering,,
+Bioengineering,BE,201,BE 201,Reading the Bioengineering Literature,,
+Bioengineering,BE,203,BE 203,Introduction to Programming for the Biological Sciences Bootcamp,none,
+Bioengineering,BE,205,BE 205,Deep Learning for Biological Data,BE/BI 103 a and BE/BI 103 b or equivalent; or instructor's permission. CMS/CS/CNS/EE/IDS 155 is strongly recommended but not required,"BE 103 a, BE 103 b, CMS 155"
+Bioengineering,BE,240,BE 240,Special Topics in Bioengineering,,
+Bioengineering,BE,262,BE 262,Physical Biology Bootcamp,"Enrollment limited to incoming Biology, Biochemistry and Molecular Biophysics, Bioengineering, and Neurobiology graduate students, or instructor's permission",
+Bioengineering,BE,267,BE 267,Research Topics in Bioengineering,Graduate Standing,
+Bioengineering,BE,191 ab,BE 191 ab,Biomolecular Computation,"none. Recommended: ChE/BE 163, CS 21, CS 129 ab, or equivalent",
+Bioengineering,BE,196 ab,BE 196 ab,Design and Construction of Programmable Molecular Systems,none,
+Biology,Bi,1,Bi 1,Principles of Biology: The great theories of biology and their influence in the modern world,,
+Biology,Bi,1 x,Bi 1 x,The Great Ideas of Biology: Exploration through Experimentation,,
+Biology,Bi,2,Bi 2,Current Research in Biology,,
+Biology,Bi,8,Bi 8,Foundational Principles of Molecular Biology,,
+Biology,Bi,9,Bi 9,Cell Biology,Bi 8,Bi 8
+Biology,Bi,10,Bi 10,Introductory Biology Laboratory,Bi 8; designed to be taken concurrently with Bi 9,Bi 8
+Biology,Bi,21,Bi 21,Undergraduate Research with Presentation,,
+Biology,Bi,22,Bi 22,Undergraduate Research,,
+Biology,Bi,23,Bi 23,Biology Tutorials,,
+Biology,Bi,24,Bi 24,Scientific Communication for Biological Scientists and Engineers,,
+Biology,Bi,90 abc,Bi 90 abc,Undergraduate Thesis,"18 units of Bi 22 (or equivalent research experience) in the research area proposed for the thesis, and instructor's permission",Bi 22
+Biology,Bi,114,Bi 114,Immunology,"Bi 8, Bi 9, Bi 122 or equivalent, and Ch/Bi 110 recommended","Bi 8, Bi 9, Bi 122, Ch 110"
+Biology,Bi,115,Bi 115,Viruses and Applications to Biological Systems,,
+Biology,Bi,116,Bi 116,Microbial Genetics,"Bi 1, 8, 9 (or equivalent), and ESE/Bi 166","Bi 1, Bi 8, Bi 9, ESE 166"
+Biology,Bi,117,Bi 117,Developmental Biology,Bi 8 and Bi 9,"Bi 8, Bi 9"
+Biology,Bi,118,Bi 118,Morphogenesis of Developmental Systems,"Bi 8 and Bi 9, or instructor's permission","Bi 8, Bi 9"
+Biology,Bi,122,Bi 122,Genetics,"Bi 8 or Bi 9, or instructor's permission","Bi 8, Bi 9"
+Biology,Bi,129,Bi 129,The Biology and Treatment of Cancer,,
+Biology,Bi,145 b,Bi 145 b,Tissue and Organ Physiology,Bi 145a,
+Biology,Bi,158,Bi 158,Vertebrate Evolution,"Bi 1, Bi 8, or instructor's permission","Bi 1, Bi 8"
+Biology,Bi,160,Bi 160,Molecular Basis of Animal Evolution,Bi 8 and/or Bi 9 recommended,"Bi 8, Bi 9"
+Biology,Bi,165,Bi 165,Microbiology Research: Practice and Proposal,,
+Biology,Bi,177,Bi 177,Principles of Modern Microscopy,,
+Biology,Bi,180,Bi 180,Plant and Soil Science,,
+Biology,Bi,182,Bi 182,Design Principles of Gene Regulatory Networks,Bi 8,Bi 8
+Biology,Bi,183,Bi 183,Introduction to Computational Biology and Bioinformatics,"Bi 8, CS 2, Ma 3; or BE/Bi 103a; or instructor's permission","Bi 8, CS 2, Ma 3/103, BE 103 a"
+Biology,Bi,184,Bi 184,The Primate Visual System,,
+Biology,Bi,185,Bi 185,Large Scale Brain Networks,,
+Biology,Bi,188,Bi 188,Human Genetics and Genomics,Bi 122; or graduate standing and instructor's permission,Bi 122
+Biology,Bi,189,Bi 189,The Cell Cycle,Bi 8 and Bi 9,"Bi 8, Bi 9"
+Biology,Bi,190,Bi 190,Systems Genetics,Bi 122,Bi 122
+Biology,Bi,192,Bi 192,Introduction to Systems Biology,"Ma 1abc, and either Bi 8, CS1, or ACM 95 or instructor's permission","Ma 1 abc, Bi 8, CS 1, ACM 95/100 ab"
+Biology,Bi,195,Bi 195,Mathematics in Biology,calculus,
+Biology,Bi,206,Bi 206,Biochemical and Genetic Methods in Biological Research,graduate standing,
+Biology,Bi,214,Bi 214,Stem Cells and Hematopoiesis,"Graduate standing, or at least one of Bi 114, Bi 117, Bi/Be 182, plus molecular biology",
+Biology,Bi,222,Bi 222,The Structure of the Cytosol,"Bi 9, Ch/Bi 110-111 or graduate standing in a biological discipline","Bi 9, Ch 110, Ch 111"
+Biology,Bi,227,Bi 227,Methods in Modern Microscopy,Bi/BE 177 or a course in microscopy,Bi 177
+Biology,Bi,230,Bi 230,Optogenetic and CLARITY Methods in Experimental Neuroscience,Graduate standing or NB/Bi/CNS 150 or equivalent or instructor's permission,
+Biology,Bi,241,Bi 241,Spatial Genomics,Instructor's permission,
+Biology,Bi,250 a,Bi 250 a,Topics in Molecular and Cellular Biology,graduate standing,
+Biology,Bi,250 b,Bi 250 b,Topics in Systems Biology,"Bi 1, Bi 8, or equivalent; Ma 2, Bi/CNS/NB 195, or equivalent; or instructor's permission","Bi 1, Bi 8, Ma 2/102, Bi 195"
+Biology,Bi,250 d,Bi 250 d,"Topics in Developmental, Stem Cell and Evolutionary Biology",graduate standing,
+Biology,Bi,251 abc,Bi 251 abc,Current Research in Cellular and Molecular Biology,graduate standing,
+Biology,Bi,252,Bi 252,Responsible Conduct of Research,,
+Biology,Bi,270 abc,Bi 270 abc,Special Topics in Biology,,
+Biology,Bi,299,Bi 299,Graduate Research,,
+Biology,Bi,105,Bi 105,Evolution,"Completion of Core Curriculum Courses. Maximum enrollment: 15, by application only",
+Biology,Bi,145 a,Bi 145 a,Tissue and Organ Physiology,"Bi 8, 9, Ch/Bi 110. Ch/Bi 110 may be taken concurrently","Bi 8, Bi 9, Ch 110"
+Chemical Engineering,ChE,10,ChE 10,Introduction to Chemical Engineering,,
+Chemical Engineering,ChE,15,ChE 15,Introduction to Chemical Engineering Computation,,
+Chemical Engineering,ChE,62,ChE 62,Separation Processes,ChE 15 and Ma 2,"ChE 15, Ma 2/102"
+Chemical Engineering,ChE,63 ab,ChE 63 ab,Chemical Engineering Thermodynamics,Sophomore standing required,
+Chemical Engineering,ChE,70,ChE 70,Special Topics in Chemical Engineering,instructor's permission,
+Chemical Engineering,ChE,80,ChE 80,Undergraduate Research,,
+Chemical Engineering,ChE,90 abc,ChE 90 abc,Senior Thesis,,
+Chemical Engineering,ChE,101,ChE 101,Chemical Reaction Engineering,"ChE 62, ChE 63 ab, or instructor's permission","ChE 62, ChE 63 ab"
+Chemical Engineering,ChE,103 abc,ChE 103 abc,Transport Phenomena,ACM 95/100 ab or concurrent registration; ChE 101 required for ChE 103 c or instructor's permission,"ACM 95/100 ab, ChE 101"
+Chemical Engineering,ChE,105,ChE 105,Dynamics and Control of Chemical Systems,"ACM 95 ab or concurrent registration, or instructor's permission",ACM 95/100 ab
+Chemical Engineering,ChE,107,ChE 107,Social Media for Scientists,,
+Chemical Engineering,ChE,111,ChE 111,Sustainable Engineering,(ChE 62 and ChE 63 ab) or (ME 11 abc) or (Ph 2 c and MS 115) or Instructor's permission,"ChE 62, ChE 63 ab, ME 11 abc, Ph 2 abc, MS 115"
+Chemical Engineering,ChE,112,ChE 112,Creativity and Technological Innovation with Microfluidic Systems,,
+Chemical Engineering,ChE,114,ChE 114,Solid State NMR Spectroscopy For Materials Chemistry,Ch 21abc or instructor's permission,Ch 21 abc
+Chemical Engineering,ChE,115,ChE 115,Electronic Materials Processing,"ChE 63 ab, ChE 103 abc, ChE 101, or instructor's permission","ChE 63 ab, ChE 103 abc, ChE 101"
+Chemical Engineering,ChE,118,ChE 118,Introduction to the Design of Chemical Systems,"ChE 63 ab, ChE 101, ChE 103 abc, ChE 126, or instructor's permission","ChE 63 ab, ChE 101, ChE 103 abc, ChE 126"
+Chemical Engineering,ChE,120,ChE 120,Optimal Design of Chemical Systems,"ChE 63 ab, ChE 101, ChE 103 abc, ChE 126, or instructor's permission","ChE 63 ab, ChE 101, ChE 103 abc, ChE 126"
+Chemical Engineering,ChE,126,ChE 126,Chemical Engineering Laboratory,"ChE 63 ab, ChE 101, ChE 103 abc, ChE 105, or instructor's permission","ChE 63 ab, ChE 101, ChE 103 abc, ChE 105"
+Chemical Engineering,ChE,128,ChE 128,Chemical Engineering Design Laboratory,"ChE 63 ab, ChE 101, ChE 103 abc, or instructor's permission","ChE 63 ab, ChE 101, ChE 103 abc"
+Chemical Engineering,ChE,130,ChE 130,Biomolecular Engineering Laboratory,"ChE 63 ab, ChE 101 (may be taken concurrently) or instructor's permission","ChE 63 ab, ChE 101"
+Chemical Engineering,ChE,141,ChE 141,Data Science for Chemical Systems,"ChE 15, ACM/IDS 104","ChE 15, ACM 104"
+Chemical Engineering,ChE,142,ChE 142,Challenges in Data Science for Chemical Systems,ChE 141,ChE 141
+Chemical Engineering,ChE,148,ChE 148,Polymer Physics,,
+Chemical Engineering,ChE,151 ab,ChE 151 ab,Physical and Chemical Rate Processes,,
+Chemical Engineering,ChE,152,ChE 152,Heterogeneous Kinetics and Reaction Engineering,ChE 101 or instructor's permission,ChE 101
+Chemical Engineering,ChE,155,ChE 155,Chemistry of Catalysis,,
+Chemical Engineering,ChE,163,ChE 163,Introduction to Biomolecular Engineering,"Bi 8, Ch/Bi 110 or instructor's permission and CS 1 or equivalent","Bi 8, Ch 110, CS 1"
+Chemical Engineering,ChE,164,ChE 164,Introduction to Statistical Thermodynamics,Ch 21 abc or instructor's permission,Ch 21 abc
+Chemical Engineering,ChE,165,ChE 165,Chemical Thermodynamics,ChE 63 ab or instructor's permission,ChE 63 ab
+Chemical Engineering,ChE,174,ChE 174,Special Topics in Transport Phenomena,ACM 95/100 and ChE 151 ab or instructor's permission,"ACM 95/100 ab, ChE 151 ab"
+Chemical Engineering,ChE,188,ChE 188,Molecular Imaging,"Ch/Bi 110, ChE 101 and ACM 95 or equivalent","Ch 110, ChE 101, ACM 95/100 ab"
+Chemical Engineering,ChE,190,ChE 190,Special Problems in Chemical Engineering,Instructor's permission and adviser's approval must be obtained before registering,
+Chemical Engineering,ChE,280,ChE 280,Chemical Engineering Research,,
+Chemistry,Ch,1 ab,Ch 1 ab,General Chemistry,,
+Chemistry,Ch,3,Ch 3,Fundamental Techniques of Experimental Chemistry,,
+Chemistry,Ch,3 x,Ch 3 x,Experimental Methods in Solar Energy Conversion,,
+Chemistry,Ch,6 ab,Ch 6 ab,Physical and Biophysical Chemistry Laboratory,"Ch 1, Ch 4 a, and Ch 21 or equivalents (may be taken concurrently)","Ch 1 ab, Ch 4 ab"
+Chemistry,Ch,7,Ch 7,Advanced Experimental Methods in Bioorganic Chemistry,"Ch 41 abc, Ch/Bi 110, and Ch 4 ab",
+Chemistry,Ch,14,Ch 14,Chemical Equilibrium and Analysis,,
+Chemistry,Ch,15,Ch 15,Chemical Equilibrium and Analysis Laboratory,"Ch 1 ab, Ch 3 a or Ch 3 x, Ch 14, or instructor's permission","Ch 1 ab, Ch 3, Ch 3 x, Ch 14"
+Chemistry,Ch,21 abc,Ch 21 abc,Physical Chemistry,"Ch 1 ab, Ph 2 a or Ph 12 a, Ma 2; Ma 3 is recommended","Ch 1 ab, Ph 2 abc, Ph 12 abc, Ma 2/102, Ma 3/103"
+Chemistry,Ch,25,Ch 25,Introduction to Biophysical Chemistry: Thermodynamics,"Ch 1 ab, Ph 2 a or Ph 12 a, Ma 2; Ch 21 a recommended","Ch 1 ab, Ph 2 abc, Ph 12 abc, Ma 2/102, Ch 21 abc"
+Chemistry,Ch,41 abc,Ch 41 abc,Organic Chemistry,Ch 1 ab or instructor's permission,Ch 1 ab
+Chemistry,Ch,80,Ch 80,Chemical Research,,
+Chemistry,Ch,81,Ch 81,Independent Reading in Chemistry,instructor's permission,
+Chemistry,Ch,82,Ch 82,Senior Thesis Research,Instructor's permission,
+Chemistry,Ch,90,Ch 90,Oral Presentation,,
+Chemistry,Ch,91,Ch 91,Scientific Writing,,
+Chemistry,Ch,101,Ch 101,Chemistry Tutorials,,
+Chemistry,Ch,102,Ch 102,Introduction to Inorganic Chemistry,Ch 41 ab,Ch 41 abc
+Chemistry,Ch,104,Ch 104,Intermediate Organic Chemistry,Ch 41 abc,Ch 41 abc
+Chemistry,Ch,110,Ch 110,Introduction to Biochemistry,Ch 41 abc or instructor's permission,Ch 41 abc
+Chemistry,Ch,111,Ch 111,Biochemistry of Gene Expression,Ch/Bi 110; Bi 8 and Bi 122 recommended,"Ch 110, Bi 8, Bi 122"
+Chemistry,Ch,112,Ch 112,Intermediate Inorganic Chemistry,Ch 102 or instructor's permission,Ch 102
+Chemistry,Ch,117,Ch 117,Introduction to Electrochemistry,,
+Chemistry,Ch,121 ab,Ch 121 ab,Atomic-Level Simulations of Materials and Molecules,Ch 21 a or Ch 125 a,"Ch 21 abc, Ch 125 ab"
+Chemistry,Ch,122,Ch 122,Structure Determination by X-ray Crystallography,Ch 21 abc or instructor's permission,Ch 21 abc
+Chemistry,Ch,125 ab,Ch 125 ab,The Elements of Quantum Chemistry,Ch 21 abc or an equivalent brief introduction to quantum mechanics,Ch 21 abc
+Chemistry,Ch,129,Ch 129,Introduction to Biophotonics,Ch 21 abc and Ch 125 recommended,"Ch 21 abc, Ch 125 ab"
+Chemistry,Ch,135,Ch 135,Chemical Dynamics,"Ch 21 abc and Ch 41 abc, or equivalent, or instructor's permission","Ch 21 abc, Ch 41 abc"
+Chemistry,Ch,140 ab,Ch 140 ab,Principles and Applications of Semiconductor Photoelectrochemistry,APh/EE 9 ab or instructor's permission,APh 9 ab
+Chemistry,Ch,143,Ch 143,NMR Spectroscopy for Structural Identification,Ch 41 abc,Ch 41 abc
+Chemistry,Ch,145,Ch 145,Chemical Biology of Proteins,Ch 41 abc; Ch/Bi 110 recommended,"Ch 41 abc, Ch 110"
+Chemistry,Ch,146,Ch 146,Bioorganic Chemistry of Nucleic Acids,Ch 41 ab,Ch 41 abc
+Chemistry,Ch,147,Ch 147,Polymer Chemistry,Ch 41 abc,Ch 41 abc
+Chemistry,Ch,149,Ch 149,Tutorial in Organic Chemistry,Ch 41 abc and instructor's permission,Ch 41 abc
+Chemistry,Ch,153 abc,Ch 153 abc,Advanced Inorganic Chemistry,Ch 112 and Ch 21 abc or concurrent registration,"Ch 112, Ch 21 abc"
+Chemistry,Ch,154 ab,Ch 154 ab,Organometallic Chemistry,Ch 112 or equivalent,Ch 112
+Chemistry,Ch,180,Ch 180,Chemical Research,,
+Chemistry,Ch,212,Ch 212,Bioinorganic Chemistry,Ch 112 and Ch/Bi 110 or equivalent,"Ch 112, Ch 110"
+Chemistry,Ch,213 abc,Ch 213 abc,Advanced Ligand Field Theory,Ch 21 abc or concurrent registration,Ch 21 abc
+Chemistry,Ch,225,Ch 225,Advanced Quantum Chemistry,"Ch125ab or equivalent, or permission of instructors",Ch 125 ab
+Chemistry,Ch,226,Ch 226,Optical and Nonlinear Spectroscopy,"Ch125ab, or equivalent instruction in quantum mechanics",Ch 125 ab
+Chemistry,Ch,242 ab,Ch 242 ab,Chemical Synthesis,Ch 41 abc,Ch 41 abc
+Chemistry,Ch,247,Ch 247,Organic Reaction Mechanisms,"Ch 41 abc, Ch 242 a recommended","Ch 41 abc, Ch 242 ab"
+Chemistry,Ch,250,Ch 250,Advanced Topics in Chemistry,,
+Chemistry,Ch,251,Ch 251,Advanced Topics in Chemical Biology,Prerequisites: Ch 145 or 146 or consent of the instructor,"Ch 145, Ch 146"
+Chemistry,Ch,252,Ch 252,Advanced Topics in Chemical Physics,,
+Chemistry,Ch,253,Ch 253,Advanced Topics in Biochemistry,,
+Chemistry,Ch,279,Ch 279,Rotations in Chemistry,,
+Chemistry,Ch,280,Ch 280,Chemical Research,,
+Chemistry,Ch,4 ab,Ch 4 ab,Synthesis and Analysis of Organic and Inorganic Compounds,Ch 1 (or the equivalent) and Ch 3 a or Ch 3 x. Ch 4 a is a prerequisite for Ch 4 b. Previous or concurrent enrollment in Ch 41 is strongly recommended,"Ch 1 ab, Ch 3, Ch 3 x"
+Chemistry,Ch,5 ab,Ch 5 ab,Advanced Techniques of Synthesis and Analysis,Ch 4 ab. Ch 102 strongly recommended for Ch 5 b,"Ch 4 ab, Ch 102"
+Chemistry,Ch,8,Ch 8,Procedures of Synthetic Chemistry for Premedical Students,Ch 1 ab and Ch 3 a or Ch 3 x. Previous or concurrent enrollment in Ch 41 is strongly recommended,"Ch 1 ab, Ch 3, Ch 3 x, Ch 41 abc"
+Chemistry,Ch,9,Ch 9,Chemical Synthesis and Characterization for Chemical Engineering,Ch 1 ab and Ch 3 a or Ch 3 x. Previous or concurrent enrollment in Ch 41 is strongly recommended,"Ch 1 ab, Ch 3, Ch 3 x, Ch 41 abc"
+Chemistry,Ch,10 abc,Ch 10 abc,Frontiers in Chemistry,"Open for credit to freshmen and sophomores. Ch 10 c prerequisites are Ch 10 ab, Ch 3 a or Ch 3 x, and either Ch 1 ab, Ch 41 ab, or Ch 21 ab, and instructorâ€™s permission",
+Chemistry,Ch,120 ab,Ch 120 ab,Nature of the Chemical Bond,"general exposure to quantum mechanics (e.g., Ch 21 a)",Ch 21 abc
+Chemistry,Ch,144 ab,Ch 144 ab,Advanced Organic Chemistry,Ch 41 abc; Ch 21 abc recommended,"Ch 41 abc, Ch 21 abc"
+Civil Engineering,CE,90 abc,CE 90 abc,Structural Analysics and Design,ME 35 abc,
+Civil Engineering,CE,100,CE 100,Special Topics in Civil Engineering,,
+Civil Engineering,CE,108 ab,CE 108 ab,Computational Mechanics,"Ae 102 abc, Ae 160 ab","Ae 102 abc, Ae 160 ab"
+Civil Engineering,CE,112 ab,CE 112 ab,Hydraulic Engineering,"ME 11 abc, ME 12 abc; ACM 95/100 or equivalent (may be taken concurrently)","ME 11 abc, ME 12 abc, ACM 95/100 ab"
+Civil Engineering,CE,160 ab,CE 160 ab,Structural and Earthquake Engineering,,
+Civil Engineering,CE,173,CE 173,Mechanics of Soils,Continuum Mechanics-Ae/Ge/ME 160a,Ae 160 ab
+Civil Engineering,CE,180,CE 180,Experimental Methods in Earthquake Engineering,AM/CE 151 abc or equivalent,AM 151
+Civil Engineering,CE,181 ab,CE 181 ab,Engineering Seismology,,
+Civil Engineering,CE,200,CE 200,Advanced Work in Civil Engineering,,
+Civil Engineering,CE,201,CE 201,Advanced Topics in Civil Engineering,,
+Civil Engineering,CE,222,CE 222,"Earthquake Source Processes, Debris Flows, and Soil Liquefaction: Physics-based Modeling of Failure in Granular Media",,
+Civil Engineering,CE,300,CE 300,Research in Civil Engineering,,
+Civil Engineering,CE,108,CE 108,Computational Mechanics,"Ae/AM/ME/CE 102 abc or Ae/GE/ME 160 ab, or instructor's permission","Ae 102 abc, Ae 160 ab"
+Computation & Neural Sys(E&AS),CNS,100,CNS 100,Introduction to Computation and Neural Systems,,
+Computation & Neural Sys(E&AS),CNS,102 ab,CNS 102 ab,"Brains, Minds, and Society","NB/Bi/CNS 150 and CNS/Bi/Ph/CS/NB 187, or instructor's permission","NB 150, CNS 187"
+Computation & Neural Sys(E&AS),CNS,131,CNS 131,The Psychology of Learning and Motivation,,
+Computation & Neural Sys(E&AS),CNS,176,CNS 176,Cognition,,
+Computation & Neural Sys(E&AS),CNS,180,CNS 180,Research in Computation and Neural Systems,,
+Computation & Neural Sys(E&AS),CNS,186,CNS 186,Vision: From Computational Theory to Neuronal Mechanisms,,
+Computation & Neural Sys(E&AS),CNS,187,CNS 187,Neural Computation,introductory neuroscience (Bi 150 or equivalent); mathematical methods (Bi 195 or equivalent); scientific programming,"NB 150, Bi 195"
+Computation & Neural Sys(E&AS),CNS,247,CNS 247,Cerebral Cortex,NB/Bi/CNS 150 or equivalent,NB 150
+Computation & Neural Sys(E&AS),CNS,251,CNS 251,Human Brain Mapping: Theory and Practice,,
+Computation & Neural Sys(E&AS),CNS,256,CNS 256,Decision Making,,
+Computation & Neural Sys(E&AS),CNS,280,CNS 280,Research in Computation and Neural Systems,,
+Computation & Neural Sys(E&AS),CNS,286 abc,CNS 286 abc,Special Topics in Computation and Neural Systems,,
+Computer Science,CS,1,CS 1,Introduction to Computer Programming,,
+Computer Science,CS,1 x,CS 1 x,Intermediate Computer Programming,Enrollment by instructor permission only,
+Computer Science,CS,3,CS 3,Introduction to Software Design,CS 2 or equivalent,CS 2
+Computer Science,CS,4,CS 4,Fundamentals of Computer Programming,CS 1 or instructor's permission,CS 1
+Computer Science,CS,9,CS 9,Introduction to Computer Science Research,,
+Computer Science,CS,11,CS 11,Computer Language Lab,CS 1 or instructor's permission,CS 1
+Computer Science,CS,12,CS 12,Student-Taught Topics in Computing,CS 1 or instructor's permission,CS 1
+Computer Science,CS,19 ab,CS 19 ab,Introduction to Computer Science in Industry,,
+Computer Science,CS,21,CS 21,Decidability and Tractability,CS 2 (may be taken concurrently),CS 2
+Computer Science,CS,22,CS 22,Data Structures & Parallelism,CS 2 or instructor's permission,CS 2
+Computer Science,CS,24,CS 24,Introduction to Computing Systems,CS 2 and CS 3,"CS 2, CS 3"
+Computer Science,CS,38,CS 38,Algorithms,CS 2; Ma/CS 6 a or Ma 121 a; and CS 21,"CS 2, Ma 6/106 abc, Ma 121 ab, CS 21"
+Computer Science,CS,42,CS 42,Computer Science Education in K-14 Settings,,
+Computer Science,CS,75 abc,CS 75 abc,Multidisciplinary Systems Engineering,,
+Computer Science,CS,80 abc,CS 80 abc,Undergraduate Thesis,"instructor's permission, which should be obtained sufficiently early to allow time for planning the research",
+Computer Science,CS,81 abc,CS 81 abc,Undergraduate Projects in Computer Science,Consent of supervisor is required before registering,
+Computer Science,CS,90,CS 90,Undergraduate Reading in Computer Science,Consent of supervisor is required before registering,
+Computer Science,CS,101,CS 101,Special Topics in Computer Science,"CS 21 and CS 38, or instructor's permission","CS 21, CS 38"
+Computer Science,CS,102 abc,CS 102 abc,Seminar in Computer Science,,
+Computer Science,CS,103 abc,CS 103 abc,Reading in Computer Science,,
+Computer Science,CS,111,CS 111,Graduate Programming Practicum,CS 1 or equivalent,CS 1
+Computer Science,CS,115,CS 115,Functional Programming,CS 1 and CS 4,"CS 1, CS 4"
+Computer Science,CS,116,CS 116,Reasoning about Program Correctness,CS 1 or equivalent,CS 1
+Computer Science,CS,118,CS 118,Automata-Theoretic Software Analysis,,
+Computer Science,CS,120,CS 120,Quantum Cryptography,"Ma 1b, Ph 2b or Ph 12b, CS 21, CS 38 or equivalent recommended (or instructor's permission)","Ma 1 abc, Ph 2 abc, CS 21, CS 38"
+Computer Science,CS,121,CS 121,Relational Databases,CS 1 or equivalent,CS 1
+Computer Science,CS,122,CS 122,Database System Implementation,"CS 2, CS 38, CS/IDS 121 and familiarity with Java, or instructor's permission","CS 2, CS 38, CS 121"
+Computer Science,CS,123,CS 123,Projects in Database Systems,CS/IDS 121 and CS 122,"CS 121, CS 122"
+Computer Science,CS,124,CS 124,Operating Systems,CS 24,CS 24
+Computer Science,CS,130,CS 130,Software Engineering,CS 2 or equivalent,CS 2
+Computer Science,CS,132,CS 132,Web Development,CS1 or equivalent,CS 1
+Computer Science,CS,137,CS 137,Algorithms in the Real World,CS 24,CS 24
+Computer Science,CS,138,CS 138,Computer Algorithms,,
+Computer Science,CS,141,CS 141,Hack Society: Projects from the Public Sector,"CS/IDS 142, 143, CMS/CS/EE/IDS 144, or permission from instructor","CS 142, CS 143, CMS 144"
+Computer Science,CS,143,CS 143,Communication Networks,"Ma 2, Ma 3, CS 24 and CS 38, or instructor permission","Ma 2/102, Ma 3/103, CS 24, CS 38"
+Computer Science,CS,145,CS 145,Projects in Networking,"Either CMS/CS/EE/IDS 144 or CS/IDS 142 in the preceding term, or instructor permission","CMS 144, CS 142"
+Computer Science,CS,146,CS 146,Control and Optimization of Networks,"Ma 2, Ma 3 or instructor's permission","Ma 2/102, Ma 3/103"
+Computer Science,CS,149,CS 149,Algorithmic Economics,,
+Computer Science,CS,151,CS 151,Complexity Theory,"CS 21 and CS 38, or instructor's permission","CS 21, CS 38"
+Computer Science,CS,152,CS 152,Introduction to Cryptography,"Ma 1b, CS 21, CS 38 or equivalent recommended","Ma 1 abc, CS 21, CS 38"
+Computer Science,CS,153,CS 153,Current Topics in Theoretical Computer Science,"CS 21 and CS 38, or instructor's permission","CS 21, CS 38"
+Computer Science,CS,156 ab,CS 156 ab,Learning Systems,"Ma 2 and CS 2, or equivalent","CS 2, Ma 2/102"
+Computer Science,CS,159,CS 159,Advanced Topics in Machine Learning,"CS 155; strong background in statistics, probability theory, algorithms, and linear algebra; background in optimization is a plus as well",CMS 155
+Computer Science,CS,165,CS 165,Foundations of Machine Learning and Statistical Inference,"CMS/ACM/IDS 113, ACM/EE/IDS 116, CS 156a, ACM/CS/IDS 157 or instructor's permission","CMS 122, ACM 116, CS 156 ab, IDS 157"
+Computer Science,CS,166,CS 166,Computational Cameras,ACM 104 or ACM 107 or equivalent,"ACM 104, CMS 107"
+Computer Science,CS,171,CS 171,Computer Graphics Laboratory,"Extensive programming experience and proficiency in linear algebra, starting with CS2 and Ma1b","CS 2, Ma 1 abc"
+Computer Science,CS,174,CS 174,Computer Graphics Projects,"Extensive programming experience, CS/CNS 171 or instructor's permission",CS 171
+Computer Science,CS,177 a,CS 177 a,Discrete Differential Geometry: Theory and Applications,,
+Computer Science,CS,178,CS 178,Numerical Algorithms and their Implementation,CS 2,CS 2
+Computer Science,CS,179,CS 179,GPU Programming,Good working knowledge of C/C++,
+Computer Science,CS,274 abc,CS 274 abc,Topics in Computer Graphics,instructor's permission,
+Computer Science,CS,280,CS 280,Research in Computer Science,,
+Computer Science,CS,282 abc,CS 282 abc,Reading in Computer Science,,
+Computer Science,CS,286 abc,CS 286 abc,Seminar in Computer Science,,
+Computer Science,CS,287,CS 287,Center for the Mathematics of Information Seminar,,
+Computer Science,CS,2,CS 2,Introduction to Programming Methods,CS 1 or equivalent.,CS 1
+Computer Science,CS,131,CS 131,Programming Languages,CS 4,CS 4
+Computer Science,CS,142,CS 142,Distributed Computing,"CS 24, CS 38","CS 24, CS 38"
+Computer Science,CS,150 ab,CS 150 ab,Probability and Algorithms,part a: CS 38 and Ma 5 abc; part b: part a or another introductory course in discrete probability,"CS 38, Ma 5/105 abc"
+Computer Science,CS,162,CS 162,"Data, Algorithms and Society",CS 38 and CS 155 or 156a,"CS 38, CMS 155, CS 156 ab"
+Computer Science,CS,176,CS 176,Computer Graphics Research,"CS/CNS 171, or 173, or 174","CS 171, CS 174"
+Computer Science,CS,180,CS 180,Masterâ€™s Thesis Research,,
+Computer Science,CS,163,CS 163,Making Data Visual,,
+Computing and Mathematical Sciences,CMS,107,CMS 107,Linear Analysis with Applications,"ACM/IDS 104 or equivalent, Ma 1 b or equivalent","ACM 104, Ma 1 abc"
+Computing and Mathematical Sciences,CMS,117,CMS 117,Probability Theory and Stochastic Processes,"ACM/IDS 104, ACM/EE/IDS 116 or instructor's permission","ACM 104, ACM 116"
+Computing and Mathematical Sciences,CMS,122,CMS 122,Mathematical Optimization,"ACM 11 and ACM 104, or instructor's permission","ACM 11, ACM 104"
+Computing and Mathematical Sciences,CMS,139,CMS 139,Analysis and Design of Algorithms,"Ma 2, Ma 3, Ma/CS 6a, CS 21, CS 38/138, and ACM/EE/IDS 116 or CMS/ACM/IDS 113 or equivalent","Ma 2/102, Ma 3/103, Ma 6/106 abc, CS 21, CS 38, ACM 116, CMS 122"
+Computing and Mathematical Sciences,CMS,144,CMS 144,Networks: Structure & Economics,"Ma 2, Ma 3, Ma/CS 6 a, and CS 38, or instructor permission","Ma 2/102, Ma 3/103, Ma 6/106 abc, CS 21, CS 38"
+Computing and Mathematical Sciences,CMS,155,CMS 155,Machine Learning & Data Mining,"CS/CNS/EE 156 a. Having a sufficient background in algorithms, linear algebra, calculus, probability, and statistics, is highly recommended",CS 156 ab
+Computing and Mathematical Sciences,CMS,270,CMS 270,Advanced Topics in Computing and Mathematical Sciences,,
+Computing and Mathematical Sciences,CMS,300,CMS 300,Research in Computing and Mathematical Sciences,,
+Computing and Mathematical Sciences,CMS,290 abc,CMS 290 abc, Computing and Mathematical Sciences Colloquium,Registration is limited to graduate students in the CMS department only,
+Control & Dynamical Systems,CDS,90 abc,CDS 90 abc,Senior Thesis in Control and Dynamical Systems,CDS 110 or CDS 112 (may be taken concurrently),"CDS 110, CDS 112"
+Control & Dynamical Systems,CDS,110,CDS 110,Introduction to Feedback Control Systems,Ma 1abc and Ma 2/102 or equivalents,"Ma 1 abc, Ma 2/102"
+Control & Dynamical Systems,CDS,112,CDS 112,Optimal Control and Estimation,CDS 110 (or equivalent) and CDS 131,"CDS 110, CDS 131"
+Control & Dynamical Systems,CDS,131,CDS 131,Linear Systems Theory,"Ma 1b, Ma 2, ACM/IDS 104 or equivalent (may be taken concurrently)","Ma 1 abc, Ma 2/102, ACM 104"
+Control & Dynamical Systems,CDS,141,CDS 141,Network Control Systems,,
+Control & Dynamical Systems,CDS,190,CDS 190,Independent Work in Control and Dynamical Systems,CDS 110,CDS 110
+Control & Dynamical Systems,CDS,231,CDS 231,Robust Control Theory,"CMS/ACM/IDS 107, CMS/ACM/IDS 113, and CDS 131 (or equivalents)","CMS 107, CMS 122, CDS 131"
+Control & Dynamical Systems,CDS,232,CDS 232,Nonlinear Dynamics,CMS/ACM/ IDS107 and CDS 231,"CMS 107, CDS 231"
+Control & Dynamical Systems,CDS,233,CDS 233,Nonlinear Control,CDS 231 and CDS 232,"CDS 231, CDS 232"
+Control & Dynamical Systems,CDS,242,CDS 242,Hybrid Systems: Dynamics and Control,CDS 231 and CDS 232,"CDS 231, CDS 232"
+Control & Dynamical Systems,CDS,243,CDS 243,Adaptive Control,CDS 231 AND CDS 232,"CDS 231, CDS 232"
+Control & Dynamical Systems,CDS,244,CDS 244,System Identification,CDS 231 and CDS 232,"CDS 231, CDS 232"
+Control & Dynamical Systems,CDS,270,CDS 270,Advanced Topics in Systems and Control,,
+Control & Dynamical Systems,CDS,300 abc,CDS 300 abc,Research in Control and Dynamical Systems,,
+Electrical Engineering,EE,1,EE 1,"The Science of Data, Signals, and Information",,
+Electrical Engineering,EE,7,EE 7,Introduction to Mechatronics,,
+Electrical Engineering,EE,10 ab,EE 10 ab,Introduction to Digital Logic and Embedded Systems,,
+Electrical Engineering,EE,13,EE 13,Electronic System Prototyping,,
+Electrical Engineering,EE,40,EE 40,Physics of Electrical Engineering,,
+Electrical Engineering,EE,44,EE 44,Deterministic Analysis of Systems and Circuits,"Ph 1 abc, can be taken concurrently with Ma 2 and Ph 2 a",Ph 1 abc
+Electrical Engineering,EE,45,EE 45,Electronics Systems and Laboratory,EE 44,EE 44
+Electrical Engineering,EE,55,EE 55,Mathematics of Electrical Engineering,Ma 1abc,Ma 1 abc
+Electrical Engineering,EE,80 abc,EE 80 abc,Senior Thesis,"instructor's permission, which should be obtained during the junior year to allow sufficient time for planning the research",
+Electrical Engineering,EE,85,EE 85,Analog and RF Circuits Laboratory,EE 45 or equivalent,EE 45
+Electrical Engineering,EE,90,EE 90,Analog Electronics Project Laboratory,EE 40 and EE 45,"EE 40, EE 45"
+Electrical Engineering,EE,91,EE 91,Experimental Projects in Electronic Circuits,EE 45,EE 45
+Electrical Engineering,EE,99,EE 99,Advanced Work in Electrical Engineering,,
+Electrical Engineering,EE,105 abc,EE 105 abc,Electrical Engineering Seminar,,
+Electrical Engineering,EE,110 abc,EE 110 abc,Embedded Systems Design Laboratory,,
+Electrical Engineering,EE,111,EE 111,Signal-Processing Systems and Transforms,Ma 1,Ma 1 abc
+Electrical Engineering,EE,112,EE 112,Introduction to Signal Processing from Data,EE 111 or equivalent. Math 3 recommended,"EE 111, Ma 3/103"
+Electrical Engineering,EE,113,EE 113,Feedback and Control Circuits,EE 45 or equivalent,EE 45
+Electrical Engineering,EE,114 ab,EE 114 ab,Analog Circuit Design,EE 44 or equivalent,EE 44
+Electrical Engineering,EE,115,EE 115,Micro-/Nano-scales Electro-Optics,Introductory electromagnetic class and consent of the instructor,Ph 1 abc
+Electrical Engineering,EE,119 abc,EE 119 abc,Advanced Digital Systems Design,EE/CS 10 a or CS 24,"EE 10 ab, CS 24"
+Electrical Engineering,EE,120,EE 120,Physical Optics,Intermediate-level familiarity with Fourier transforms and linear systems analysis,
+Electrical Engineering,EE,121,EE 121,Computational Signal Processing,"EE 111, ACM/EE/IDS 116, ACM/IDS 104","EE 111, ACM 116, ACM 104"
+Electrical Engineering,EE,123,EE 123,Advanced Lasers and Photonics Laboratory,none,
+Electrical Engineering,EE,125,EE 125,Digital Electronics and Design with FPGAs and VHDL,EE/CS 10 or equivalent,EE 10 ab
+Electrical Engineering,EE,126 ab,EE 126 ab,Information Theory,Ma 3,Ma 3/103
+Electrical Engineering,EE,127,EE 127,Error-Correcting Codes,EE 55 or Ma 3,"EE 55, Ma 3/103"
+Electrical Engineering,EE,128 ab,EE 128 ab,Selected Topics in Digital Signal Processing,"EE 111 and EE/CS/IDS 160 or equivalent required, and EE 112 or equivalent recommended","EE 111, EE 160, EE 112"
+Electrical Engineering,EE,131,EE 131,Light Interaction with Atomic Systems-Lasers,APh/EE 130,APh 130
+Electrical Engineering,EE,135,EE 135,Power System Analysis,"EE 44, Ma 2, or equivalent","EE 44, Ma 2/102"
+Electrical Engineering,EE,136,EE 136,Topics in Information Theory,Ma 3 or ACM/EE/IDS 116 or CMS 117 or Ma/ACM/IDS 140a,"Ma 3/103, ACM 116, CMS 117, Ma 140 ab"
+Electrical Engineering,EE,147,EE 147,Digital Ventures Design,none,
+Electrical Engineering,EE,148,EE 148,Selected Topics in Computational Vision,"undergraduate calculus, linear algebra, geometry, statistics, computer programming",
+Electrical Engineering,EE,149,EE 149,Frontiers of Nonlinear Photonics,,
+Electrical Engineering,EE,150,EE 150,Topics in Electrical Engineering,,
+Electrical Engineering,EE,151,EE 151,Electromagnetic Engineering,EE 45,EE 45
+Electrical Engineering,EE,153,EE 153,Microwave Circuits and Antennas,EE 45,EE 45
+Electrical Engineering,EE,154 ab,EE 154 ab,Practical Electronics for Space Applications,,
+Electrical Engineering,EE,157 ab,EE 157 ab,Introduction to the Physics of Remote Sensing,Ph 2 or equivalent,Ph 2 abc
+Electrical Engineering,EE,158,EE 158,Quantum Electrical Circuits,"advanced-level familiarity with Maxwell's electromagnetic theory and quantum mechanics (EE 151 and Ph 125 abc, or equivalent)","EE 151, Ph 125 abc"
+Electrical Engineering,EE,160,EE 160,Fundamentals of Information Transmission and Storage,,
+Electrical Engineering,EE,161,EE 161,Big Data Networks,Linear Algebra ACM/IDS 104 and Introduction to Probability Models ACM/EE/IDS 116 or their equivalents,"ACM 104, ACM 116"
+Electrical Engineering,EE,163,EE 163,Communication Theory,EE 111; ACM/EE/IDS 116 or equivalent,"EE 111, ACM 116"
+Electrical Engineering,EE,164,EE 164,Stochastic and Adaptive Signal Processing,ACM/EE/IDS 116 or equivalent,ACM 116
+Electrical Engineering,EE,167,EE 167,Introduction to Data Compression and Storage,Ma 3 or ACM/EE/IDS 116,"ACM 116, Ma 3/103"
+Electrical Engineering,EE,175,EE 175,Digital Circuits Analysis and Design with Complete VHDL and RTL Approach,medium to advanced knowledge of digital electronics,
+Electrical Engineering,EE,180,EE 180,Nanotechnology,,
+Electrical Engineering,EE,185,EE 185,MEMS Technology and Devices,"APh/EE 9 ab, or instructor's permission",APh 9 ab
+Electrical Engineering,EE,187,EE 187,VLSI and ULSI Technology,"APh/EE 9 ab, EE/APh 180 or instructor's permission","APh 9 ab, EE 180"
+Electrical Engineering,EE,291,EE 291,Advanced Work in Electrical Engineering,,
+Electrical Engineering,EE,124,EE 124,Mixed-mode Integrated Circuits,EE 45 a or equivalent,EE 45
+Electrical Engineering,EE,152,EE 152,High Frequency Systems Laboratory,EE 45 or equivalent. EE 153 recommended,"EE 45, EE 153"
+Electrical Engineering,EE,2,EE 2,Electrical Engineering Entrepreneurial and Research Seminar,,
+Engineering,E,2,E 2,Frontiers in Engineering and Applied Science,,
+Engineering,E,88,E 88,Critical Making,,
+Engineering,E,89,E 89,New Media Arts in the 20th and 21st Centuries,none,
+Engineering,E,100,E 100,Special Topics in Engineering Applied Science,none,
+Engineering,E,102,E 102,Scientific and Technology Entrepreneurship,,
+Engineering,E,103,E 103,Management of Technology,,
+Engineering,E,105 ab,E 105 ab,Design for Freedom from Disability,,
+Engineering,E,110,E 110,Principles of University Teaching and Learning in STEM,,
+Environmental Science & Engineering,ESE,1,ESE 1,Earth's Climate,,
+Environmental Science & Engineering,ESE,90,ESE 90,Undergraduate Laboratory Research in Environmental Science and Engineering,,
+Environmental Science & Engineering,ESE,91,ESE 91,Senior Thesis Research,ESE 90 and Instructor's permission,ESE 90
+Environmental Science & Engineering,ESE,100,ESE 100,Special Problems in Environmental Science and Engineering,instructor's permission,
+Environmental Science & Engineering,ESE,101,ESE 101,Earth's Atmosphere,,
+Environmental Science & Engineering,ESE,102,ESE 102,Earth's Oceans,,
+Environmental Science & Engineering,ESE,103,ESE 103,Earth's Biogeochemical Cycles,,
+Environmental Science & Engineering,ESE,104,ESE 104,Current Problems in Environmental Science and Engineering,,
+Environmental Science & Engineering,ESE,106,ESE 106,Research in Environmental Science and Engineering,instructor's permission,
+Environmental Science & Engineering,ESE,110 abc,ESE 110 abc,Seminar in Environmental Science and Engineering,,
+Environmental Science & Engineering,ESE,130,ESE 130,Introduction to Atmosphere and Ocean Dynamics,ESE 101 or ESE 102 and Ma 2 or equivalent (instructor's permission),"ESE 101, ESE 102, Ma 2/102"
+Environmental Science & Engineering,ESE,131,ESE 131,Ocean Dynamics,"ESE 102 and ESE 130, or instructor's permission","ESE 102, ESE 130"
+Environmental Science & Engineering,ESE,132,ESE 132,Tropical Atmosphere Dynamics,"ESE 101 and ESE 130, or instructor's permission","ESE 101, ESE 130"
+Environmental Science & Engineering,ESE,133,ESE 133,Global Atmospheric Circulations,"ESE 101 and ESE 130, or instructor's permission","ESE 101, ESE 130"
+Environmental Science & Engineering,ESE,134,ESE 134,Cloud and Boundary Layer Dynamics,ESE 101 or instructor's permission,ESE 101
+Environmental Science & Engineering,ESE,135,ESE 135,Topics in Atmosphere and Ocean Dynamics,"ESE 101 or ESE 102, or instructor's permission or equivalent","ESE 101, ESE 102"
+Environmental Science & Engineering,ESE,136,ESE 136,Climate Models,ESE 101 or ESE 102 or instructor's permission,"ESE 101, ESE 102"
+Environmental Science & Engineering,ESE,137,ESE 137,Polar Oceanography,ESE 131 or instructor's permission,ESE 131
+Environmental Science & Engineering,ESE,138,ESE 138,Ocean Turbulence and Wave Dynamics,ESE 131 or instructor's permission,ESE 131
+Environmental Science & Engineering,ESE,142,ESE 142,Aquatic Chemistry of Natural Waters,Ch 1 or instructor's permission,Ch 1 ab
+Environmental Science & Engineering,ESE,144,ESE 144,Climate from Space,,
+Environmental Science & Engineering,ESE,156,ESE 156,Remote Sensing of the Atmosphere and Biosphere,ESE 101 or instructor's permission,ESE 101
+Environmental Science & Engineering,ESE,158,ESE 158,Aerosol Physics and Chemistry,,
+Environmental Science & Engineering,ESE,168,ESE 168,Microbial Metabolic Diversity,"ESE 142, ESE/Bi 166","ESE 142, ESE 166"
+Environmental Science & Engineering,ESE,171,ESE 171,Atmospheric Chemistry I,Ch 1 or equivalent,Ch 1 ab
+Environmental Science & Engineering,ESE,172,ESE 172,Atmospheric Chemistry II,ESE/Ge/Ch 171 or equivalent,ESE 171
+Environmental Science & Engineering,ESE,176,ESE 176,Environmental Physical Organic Chemistry Part I,Ch 41ab or instructor's permission,Ch 41 abc
+Environmental Science & Engineering,ESE,177,ESE 177,Environmental Physical Organic Chemistry Part II,ESE/Ch 176 or instructor's permission,ESE 176
+Environmental Science & Engineering,ESE,179,ESE 179,"Climate Change Impacts, Mitigation and Adaptation",,
+Environmental Science & Engineering,ESE,200,ESE 200,Advanced Topics in Environmental Science and Engineering,,
+Environmental Science & Engineering,ESE,300,ESE 300,Thesis Research,,
+Environmental Science & Engineering,ESE,166,ESE 166,Microbial Physiology,one year of general biology recommended,
+Geology,Ge,1,Ge 1,Earth and Environment,,
+Geology,Ge,10,Ge 10,Frontiers in Geological and Planetary Sciences,,
+Geology,Ge,11:00 AM,Ge 11 a,Introduction to Earth and Planetary Sciences: Earth as a Planet,,
+Geology,Ge,11 b,Ge 11 b,Introduction to Earth and Planetary Sciences: Earth and the Biosphere,Ch 1 a,Ch 1 ab
+Geology,Ge,11 c,Ge 11 c,Introduction to Earth and Planetary Sciences: Planetary Sciences,"Ma 1 ab, Ph 1 ab","Ma 1 abc, Ph 1 abc"
+Geology,Ge,11 d,Ge 11 d,Introduction to Earth and Planetary Sciences: Geophysics,"Ch 1, Ma 2 a, Ph 2 a","Ch 1 ab, Ma 2/102, Ph 2 abc"
+Geology,Ge,40,Ge 40,Special Problems for Undergraduates,,
+Geology,Ge,41 abc,Ge 41 abc,Undergraduate Research and Bachelor's Thesis,,
+Geology,Ge,101,Ge 101,Introduction to Geology and Geochemistry,graduate standing or instructor's permission,
+Geology,Ge,102,Ge 102,Introduction to Geophysics,"Ma 2, Ph 2, or Ge 108, or equivalents","Ma 2/102, Ph 2 abc, Ge 108"
+Geology,Ge,103,Ge 103,Introduction to the Solar System,instructor's permission,
+Geology,Ge,104,Ge 104,Introduction to Geobiology,instructor's permission,
+Geology,Ge,106,Ge 106,Introduction to Structural Geology,Ge 11 ab,"Ge 11 a, Ge 11 b"
+Geology,Ge,108,Ge 108,Applications of Physics to the Earth Sciences,Ph 2 and Ma 2 or equivalent,"Ph 2 abc, Ma 2/102"
+Geology,Ge,109,Ge 109,Oral Presentation,,
+Geology,Ge,112,Ge 112,Sedimentology and Stratigraphy,Ge 11 ab,"Ge 11 a, Ge 11 b"
+Geology,Ge,114 a,Ge 114 a,Mineralogy,,
+Geology,Ge,114 b,Ge 114 b,Mineralogy Laboratory,concurrent enrollment in Ge 114 a or instructor's permission,Ge 114 a
+Geology,Ge,115 a,Ge 115 a,Petrology and Petrography: Igneous Petrology,Ge 114 ab,"Ge 114 a, Ge 114 b"
+Geology,Ge,115 b,Ge 115 b,Petrology and Petrography: Metamorphic Petrology,Ge 114 ab,"Ge 114 a, Ge 114 b"
+Geology,Ge,115 c,Ge 115 c,Petrography Laboratory,Ge 114 and either Ge 115 a or Ge 115 b,"Ge 114 a, Ge 114 b, Ge 115 a, Ge 115 b"
+Geology,Ge,116,Ge 116,Analytical Techniques Laboratory,Ge 114 a or instructor's permission,Ge 114 a
+Geology,Ge,117,Ge 117,Bayesian Statistics and Data Analysis,CS1 or equivalent,CS 1
+Geology,Ge,118,Ge 118,Methods in Data Analysis,Ma 1 or equivalent,Ma 1 abc
+Geology,Ge,119,Ge 119,Geology of the American Southwest,,
+Geology,Ge,120 a,Ge 120 a,Field Geology: Introduction to Field Geology,"Ge 11 ab, Ge 106 (may be taken concurrently with Ge 106)","Ge 11 a, Ge 11 b, Ge 106"
+Geology,Ge,120 b,Ge 120 b,Field Geology: Summer Field Camp,Ge 120 a or instructor's permission,Ge 120 a
+Geology,Ge,121 abc,Ge 121 abc,Advanced Field Geology,"Ge 120 or equivalent, or instructor's permission","Ge 120 a, Ge 120 b"
+Geology,Ge,122 abc,Ge 122 abc,Field Geology Seminar,"Ge 11ab or Ge 101, or instructor's permission","Ge 11 a, Ge 11 b, Ge 101"
+Geology,Ge,123,Ge 123,Continental Crust Seminar,,
+Geology,Ge,124 a,Ge 124 a,Paleomagnetism and Magnetostratigraphy,,
+Geology,Ge,124 b,Ge 124 b,Paleomagnetism and Magnetostratigraphy,Ge 11 ab,"Ge 11 a, Ge 11 b"
+Geology,Ge,125,Ge 125,Geomorphology,Ge 11 a or instructor's permission,Ge 11 a
+Geology,Ge,126,Ge 126,Topics in Earth Surface Processes,,
+Geology,Ge,127,Ge 127,Nuclear Chemistry,instructor's permission,
+Geology,Ge,128,Ge 128,Cosmochemistry,instructor's permission,
+Geology,Ge,131,Ge 131,Planetary Structure and Evolution,instructor's permission,
+Geology,Ge,132,Ge 132,Atomic and Molecular Processes in Astronomy and Planetary Sciences,instructor's permission,
+Geology,Ge,133,Ge 133,The Formation and Evolution of Planetary Systems,,
+Geology,Ge,136 abc,Ge 136 abc,Regional Field Geology of the Southwestern United States,"Ge 11 ab or Ge 101, or instructor's permission","Ge 11 a, Ge 11 b, Ge 101"
+Geology,Ge,137,Ge 137,Planetary Physics,"Ph 106 abc, ACM 95/100 ab","Ph 106 abc, ACM 95/100 ab"
+Geology,Ge,139,Ge 139,Introduction to Atmospheric Radiation,"Ma 2, Ph 2, or instructor's permission","Ma 2/102, Ph 2 abc"
+Geology,Ge,140 a,Ge 140 a,Stable Isotope Geochemistry,,
+Geology,Ge,140 b,Ge 140 b,Radiogenic Isotope Geochemistry,,
+Geology,Ge,140 c,Ge 140 c,Stable Isotope Biogeochemistry,Ge 140a or equivalent,Ge 140 a
+Geology,Ge,141,Ge 141,Isotope Cosmochemistry,Instructor's permission,
+Geology,Ge,143,Ge 143,Organic Geochemistry,Ch 41 a or equivalent,Ch 41 abc
+Geology,Ge,145,Ge 145,Isotope-Ratio Mass Spectrometry,,
+Geology,Ge,147,Ge 147,Challenges and Opportunities in Quantitative Ecology,none,
+Geology,Ge,149,Ge 149,Marine Geochemistry,ESE 102,ESE 102
+Geology,Ge,150,Ge 150,Planetary Atmospheres,"Ch 1, Ma 2, Ph 2, or equivalents","Ch 1 ab, Ma 2/102, Ph 2 abc"
+Geology,Ge,151,Ge 151,Planetary Surfaces,,
+Geology,Ge,154,Ge 154,Readings in Paleoclimate,instructor's permission,
+Geology,Ge,155,Ge 155,Paleoceanography,ESE 102,ESE 102
+Geology,Ge,156,Ge 156,Topics in Planetary Surfaces,,
+Geology,Ge,157 c,Ge 157 c,Remote Sensing for Environmental and Geological Applications,,
+Geology,Ge,159,Ge 159,Astrobiology,,
+Geology,Ge,161,Ge 161,Plate Tectonics,Ge 11 ab or equivalent,"Ge 11 a, Ge 11 b"
+Geology,Ge,162,Ge 162,Seismology,ACM 95/100 ab or equivalent,ACM 95/100 ab
+Geology,Ge,163,Ge 163,Geodynamics,Ae/Ge/ME 160 ab,Ae 160 ab
+Geology,Ge,164,Ge 164,Mineral Physics,"Ge 11 ad or equivalent, or instructor's permission","Ge 11 a, Ge 11 d"
+Geology,Ge,165,Ge 165,Geophysical Data Analysis and Seismic Imaging,basic linear algebra and Fourier transforms,
+Geology,Ge,166,Ge 166,Hydrology,Math 1 or equivalent,Ma 1 abc
+Geology,Ge,167,Ge 167,Tectonic Geodesy,"a working knowledge of unix/linux or equivalent, linear algebra, and coursework in geophysics",
+Geology,Ge,169 abcd,Ge 169 abcd,Readings in Geophysics,,
+Geology,Ge,177,Ge 177,Active Tectonics,Ge 112 and Ge 106 or equivalent,"Ge 112, Ge 106"
+Geology,Ge,178,Ge 178,Microbial Ecology,either ESE/Bi 166 or ESE/Bi 168 recommended,"ESE 166, ESE 168"
+Geology,Ge,190,Ge 190,The Nature and Evolution of the Earth,,
+Geology,Ge,191,Ge 191,Special Topics in Geochemistry,,
+Geology,Ge,192,Ge 192,Special Topics in the Geological Sciences,,
+Geology,Ge,193,Ge 193,Special Topics in Geophysics,,
+Geology,Ge,194,Ge 194,Special Topics in Planetary Sciences: Europa Seminar,,
+Geology,Ge,195,Ge 195,Special Topics in Field Geology,,
+Geology,Ge,196,Ge 196,Special Topics in Atmospheres and Oceans,,
+Geology,Ge,197,Ge 197,Special Topics in Geobiology,,
+Geology,Ge,211,Ge 211,Applied Geophysics II,instructor's permission,
+Geology,Ge,212,Ge 212,Thermodynamics of Geological Systems,"Either Ch 21 abc, Ge 115 a, or equivalents","Ch 21 abc, Ge 115 a"
+Geology,Ge,214,Ge 214,Spectroscopy of Minerals,"Ge 114 a, Ch 21 ab, or instructor's permission","Ge 114 a, Ch 21 abc"
+Geology,Ge,215,Ge 215,Topics in Advanced Petrology,Ge 115 ab or instructor's permission,"Ge 115 a, Ge 115 b"
+Geology,Ge,217,Ge 217,Radiogenic Isotopes Seminar,Ge 140b or permission of instructor,Ge 140 b
+Geology,Ge,218,Ge 218,Stable Isotopes Seminar,Ge 140 or permission of instructor,"Ge 140 a, Ge 140 b, Ge 140 c"
+Geology,Ge,219,Ge 219,Non-traditional Isotopes Seminar,"Ge 140a or b, or permission of instructor","Ge 140 a, Ge 140 b"
+Geology,Ge,244,Ge 244,Paleobiology Seminar,,
+Geology,Ge,246,Ge 246,Molecular Geobiology Seminar,,
+Geology,Ge,248,Ge 248,Environmental Justice,,
+Geology,Ge,261,Ge 261,Advanced Seismology,,
+Geology,Ge,263,Ge 263,Computational Geophysics,"introductory class in geophysics, class in partial differential equations, some programming experience",
+Geology,Ge,264,Ge 264,Machine Learning in Geophysics,Ge 118 or equivalent,Ge 118
+Geology,Ge,270,Ge 270,Continental Tectonics,"ACM 95/100 or ACM 113; Ge 11 ab, Ge 106, Ge 162, or Ge 161","ACM 95/100 ab, CMS 122, Ge 11 a, Ge 11 b, Ge 106, Ge 162, Ge 161"
+Geology,Ge,271,Ge 271,Dynamics of Seismicity,,
+Geology,Ge,277,Ge 277,Active Tectonics Seminar,,
+Geology,Ge,298,Ge 298,Mentoring and Outreach,,
+Geology,Ge,111 ab,Ge 111 ab,Applied Geophysics Seminar and Field Course,,
+Information and Data Sciences,IDS,9,IDS 9,Introduction to Information and Data Systems Research,,
+Information and Data Sciences,IDS,126,IDS 126,Applied Data Analysis,"Math 3/103 or ACM/EE/IDS 116, Ec 122 or IDS/ACM/CS 157 or Ma 112a","Ma 3/103, ACM 116, IDS 157"
+Information and Data Sciences,IDS,157,IDS 157,Statistical Inference,"ACM/EE/IDS 116, Ma 3","ACM 116, Ma 3/103"
+Information and Data Sciences,IDS,158,IDS 158,Fundamentals of Statistical Learning,"Ma 3 or ACM/EE/IDS 116, IDS/ACM/CS 157","Ma 3/103, ACM 116, IDS 157"
+Information and Data Sciences,IDS,197,IDS 197,Undergraduate Reading in the Information and Data Sciences,Consent of supervisor is required before registering,
+Information and Data Sciences,IDS,198,IDS 198,Undergraduate Projects in Information and Data Sciences,Consent of supervisor is required before registering,
+Information and Data Sciences,IDS,199,IDS 199,Undergraduate thesis in the Information and Data Sciences,"instructor's permission, which should be obtained sufficiently early to allow time for planning the research",
+Materials Science,MS,78 abc,MS 78 abc,Senior thesis,instructor's permission,
+Materials Science,MS,90,MS 90,Materials Science Laboratory,MS 115 recommended,MS 115
+Materials Science,MS,100,MS 100,Advanced Work in Materials Science,,
+Materials Science,MS,110 abc,MS 110 abc,Materials Research Lectures,,
+Materials Science,MS,115,MS 115,Fundamentals of Materials Science,Ph 2,Ph 2 abc
+Materials Science,MS,116,MS 116,Mechanical Behavior of Materials,,
+Materials Science,MS,121,MS 121,Laboratory Research Methods in Materials Science,MS 115 or graduate standing,MS 115
+Materials Science,MS,122,MS 122,"Diffraction, Imaging, and Structure","MS 132, may be taken concurrently",MS 132
+Materials Science,MS,125,MS 125,Advanced Transmission Electron Microscopy,MS 122,MS 122
+Materials Science,MS,131,MS 131,Structure and Bonding in Materials,graduate standing or introductory quantum mechanics,
+Materials Science,MS,132,MS 132,Diffraction and Structure,graduate standing or instructor's permission,
+Materials Science,MS,133,MS 133,Kinetic Processes in Materials,"APh 105 b or ChE/Ch 164, or instructor's permission","APh 105 abc, ChE 164"
+Materials Science,MS,141,MS 141,Introduction to Computational Methods for Science and Engineering,graduate standing or instructor's permission,
+Materials Science,MS,142,MS 142,Application of Diffraction Techniques in Materials Science,Instructor's permission,
+Materials Science,MS,150 abc,MS 150 abc,Topics in Materials Science,,
+Materials Science,MS,161,MS 161,Imperfections in Crystals,graduate standing or MS 115,MS 115
+Materials Science,MS,162,MS 162,Electronic Materials,APh 114a (or equivalent solid-state physics) recommended but not required,APh 114 abc
+Materials Science,MS,166,MS 166,Fracture of Brittle Solids,graduate standing or MS 115 and MS 116,"MS 115, MS 116"
+Materials Science,MS,171,MS 171,"Inelastic Scattering of Materials, Molecules, and Condensed Matter",EE/APh 131 or MS 132 or equivalent,"EE 131, MS 132"
+Materials Science,MS,200,MS 200,Advanced Work in Materials Science,,
+Materials Science,MS,300,MS 300,Thesis Research,,
+Mathematics,Ma,1 abc,Ma 1 abc,Calculus of One and Several Variables and Linear Algebra,"high-school algebra, trigonometry, and calculus",
+Mathematics,Ma,1 d,Ma 1 d,Series,special section of Ma 1 a,
+Mathematics,Ma,2/102,Ma 2/102,Differential Equations,Ma 1 abc,Ma 1 abc
+Mathematics,Ma,3/103,Ma 3/103,Introduction to Probability and Statistics,Ma 1 abc,Ma 1 abc
+Mathematics,Ma,4/104,Ma 4/104,Introduction to Mathematical Chaos,,
+Mathematics,Ma,5/105 abc,Ma 5/105 abc,Introduction to Abstract Algebra,,
+Mathematics,Ma,6/106 abc,Ma 6/106 abc,Introduction to Discrete Mathematics,"for Ma/CS 6 c, Ma/CS 6 a or Ma 5 a or instructor's permission",
+Mathematics,Ma,7/107,Ma 7/107,Number Theory for Beginners,,
+Mathematics,Ma,8,Ma 8,Problem Solving in Calculus,simultaneous registration in Ma 1 a,
+Mathematics,Ma,10,Ma 10,Oral Presentation,,
+Mathematics,Ma,13,Ma 13,Problem Solving in Vector Calculus,Concurrent registration in Ph 1b,
+Mathematics,Ma,17,Ma 17,How to Solve It,,
+Mathematics,Ma,20,Ma 20,Frontiers in Mathematics,Open for credit to freshman and sophomores,
+Mathematics,Ma,92 abc,Ma 92 abc,Senior Thesis,"To register, the student must obtain permission of the mathematics undergraduate representative",
+Mathematics,Ma,97,Ma 97,Research in Mathematics,,
+Mathematics,Ma,98,Ma 98,Independent Reading,,
+Mathematics,Ma,108 abc,Ma 108 abc,Classical Analysis,,
+Mathematics,Ma,109 abc,Ma 109 abc,Introduction to Geometry and Topology,"Ma 2 or equivalent, and Ma 108 must be taken previously or concurrently","Ma 2/102, Ma 108 abc"
+Mathematics,Ma,110 abc,Ma 110 abc,Analysis,"Ma 108 or previous exposure to metric space topology, Lebesgue measure",Ma 108 abc
+Mathematics,Ma,111 abc,Ma 111 abc,Topics in Analysis,Ma 110 or instructor's permission,Ma 110 abc
+Mathematics,Ma,112 ab,Ma 112 ab,Statistics,Ma 2 a probability and statistics or equivalent,Ma 3/103
+Mathematics,Ma,116 abc,Ma 116 abc,Mathematical Logic and Axiomatic Set Theory,"Ma 5 or equivalent, or instructor's permission",Ma 5/105 abc
+Mathematics,Ma,117 abc,Ma 117 abc,Computability Theory,"Ma 5 or equivalent, or instructor's permission",Ma 5/105 abc
+Mathematics,Ma,118,Ma 118,Topics in Mathematical Logic: Geometrical Paradoxes,"Ma 5 or equivalent, or instructor's permission",Ma 5/105 abc
+Mathematics,Ma,120 abc,Ma 120 abc,Abstract Algebra,Ma 5 or equivalent or instructor's permission,Ma 5/105 abc
+Mathematics,Ma,121 ab,Ma 121 ab,Combinatorial Analysis,Ma 5,Ma 5/105 abc
+Mathematics,Ma,123,Ma 123,Classification of Simple Lie Algebras,Ma 5 or equivalent,Ma 5/105 abc
+Mathematics,Ma,124,Ma 124,Elliptic Curves,Ma 5 or equivalent,Ma 5/105 abc
+Mathematics,Ma,125,Ma 125,Algebraic Curves,Ma 5,Ma 5/105 abc
+Mathematics,Ma,128,Ma 128,Homological Algebra,Math 120 abc or instructor's permission,Ma 120 abc
+Mathematics,Ma,130 abc,Ma 130 abc,Algebraic Geometry,Ma 120 (or Ma 5 plus additional reading),Ma 120 abc
+Mathematics,Ma,132 abc,Ma 132 abc,Topics in Algebraic Geometry,Ma 130 or instructor's permission,Ma 130 abc
+Mathematics,Ma,135 ab,Ma 135 ab,Arithmetic Geometry,Ma 130,Ma 130 abc
+Mathematics,Ma,140 ab,Ma 140 ab,Probability,"For 140 a, Ma 108 b is strongly recommended",Ma 108 abc
+Mathematics,Ma,142 ab,Ma 142 ab,Ordinary and Partial Differential Equations,Ma 108; Ma 109 is desirable,"Ma 108 abc, Ma 109 abc"
+Mathematics,Ma,145 abc,Ma 145 abc,Topics in Representation Theory,Ma 5,Ma 5/105 abc
+Mathematics,Ma,147 abc,Ma 147 abc,Dynamical Systems,"Ma 108, Ma 109, or equivalent","Ma 108 abc, Ma 109 abc"
+Mathematics,Ma,148 ab,Ma 148 ab,Topics in Mathematical Physics,,
+Mathematics,Ma,151 abc,Ma 151 abc,Algebraic and Differential Topology,Ma 109 abc or equivalent,Ma 109 abc
+Mathematics,Ma,157 abc,Ma 157 abc,Riemannian Geometry,"Ma 151 or equivalent, or instructor's permission",Ma 151 abc
+Mathematics,Ma,160 abc,Ma 160 abc,Number Theory,Ma 5,Ma 5/105 abc
+Mathematics,Ma,162 ab,Ma 162 ab,Topics in Number Theory,Ma 160,Ma 160 abc
+Mathematics,Ma,191 abc,Ma 191 abc,Selected Topics in Mathematics,,
+Mathematics,Ma,290,Ma 290,Reading,,
+Mathematics,Ma,11,Ma 11,Mathematical Writing,Freshmen must have instructorâ€™s permission to enroll,
+Mathematics,Ma,390,Ma 390,Research,,
+Mechanical Engineering,ME,8,ME 8,Introduction to Robotics,,
+Mechanical Engineering,ME,10,ME 10,Thinking Like an Engineer,,
+Mechanical Engineering,ME,11 abc,ME 11 abc,Thermal Science,"Sophomore standing required; ME 12 abc, may be taken concurrently",
+Mechanical Engineering,ME,12 abc,ME 12 abc,Mechanics,"Sophomore standing required; ME 11 abc, may be taken concurrently",
+Mechanical Engineering,ME,13/113,ME 13/113,Mechanical Prototyping,,
+Mechanical Engineering,ME,14,ME 14,Design and Fabrication,"ME 12 ab, ME 13","ME 12 abc, ME 13/113"
+Mechanical Engineering,ME,23/123,ME 23/123,CNC Machining,ME 13/113,ME 13/113
+Mechanical Engineering,ME,40,ME 40,Dimensional and Data Analyses in Engineering,Ma 1 abc,Ma 1 abc
+Mechanical Engineering,ME,50 ab,ME 50 ab,Experiments and Modeling in Mechanical Engineering,"ME 11 abc, ME 12 abc, ME 13, ME 14, and programming skills at the level of ACM 11","ME 11 abc, ME 12 abc, ME 13/113, ME 14, ACM 11"
+Mechanical Engineering,ME,72 ab,ME 72 ab,Engineering Design Laboratory,ME 14,ME 14
+Mechanical Engineering,ME,90 abc,ME 90 abc,"Senior Thesis, Experimental",senior status; instructor's permission,
+Mechanical Engineering,ME,100,ME 100,Independent Studies in Mechanical Engineering,,
+Mechanical Engineering,ME,110,ME 110,Special Laboratory Work in Mechanical Engineering,,
+Mechanical Engineering,ME,115 ab,ME 115 ab,Introduction to Kinematics and Robotics,"Ma 2, ACM 95/100 ab recommended","Ma 2/102, ACM 95/100 ab"
+Mechanical Engineering,ME,117,ME 117,Energy Technology and Policy,"Ph 1 abc, Ch 1 ab and Ma 1 abc","Ph 1 abc, Ch 1 ab, Ma 1 abc"
+Mechanical Engineering,ME,119,ME 119,Heat and Mass Transfer,"ME 11 abc, ME 12 abc, ACM 95/100 (may be taken concurrently)","ME 11 abc, ME 12 abc, ACM 95/100 ab"
+Mechanical Engineering,ME,129,ME 129,Experimental Robotics,,
+Mechanical Engineering,ME,133 abc,ME 133 abc,Robotics,"ME/CS/EE 129, may be taken concurrently, or with permission of instructor",ME 129
+Mechanical Engineering,ME,146,ME 146,Computational Methods for Flow in Porous Media,"ME 11abc, ME 12abc, ACM 95/100, ACM 106ab (may be taken concurrently)","ME 11 abc, ME 12 abc, ACM 95/100 ab, ACM 106 ab"
+Mechanical Engineering,ME,163,ME 163,Mechanics and Rheology of Fluid-Infiltrated Porous Media,Continuum Mechanics-Ae/Ge/ME 160 ab,Ae 160 ab
+Mechanical Engineering,ME,169,ME 169,Mobile Robots,"ME/CS/EE 133b, or with permission of instructor",ME 133 abc
+Mechanical Engineering,ME,174,ME 174,Mechanics of Rocks,Ae/Ge/ME 160a,Ae 160 ab
+Mechanical Engineering,ME,200,ME 200,Advanced Work in Mechanical Engineering,,
+Mechanical Engineering,ME,201,ME 201,Advanced Topics in Mechanical Engineering,,
+Mechanical Engineering,ME,202 abc,ME 202 abc,Engineering Two-Phase Flows,"ACM 95/100 ab, Ae/APh/CE/ME 101 abc, or equivalents","ACM 95/100 ab, Ae 101 abc"
+Mechanical Engineering,ME,224,ME 224,Multifunctional Materials,"MS 115 or equivalent, Ae/AM/CE/ME 102abc or APh105abc (may be waived with instructor's permission)","MS 115, Ae 102 abc, APh 105 abc"
+Mechanical Engineering,ME,234 ab,ME 234 ab,Advanced Robotics,"ME/CS/EE 133(a,b), or equivalent",ME 133 abc
+Mechanical Engineering,ME,260,ME 260,Micromechanics,"ACM 95/100 or equivalent, and Ae/AM/CE/ME 102 abc or Ae/Ge/ME 160 ab or instructor's permission","ACM 95/100 ab, Ae 102 abc, Ae 160 ab"
+Mechanical Engineering,ME,266 ab,ME 266 ab,Dynamic Fracture and Frictional Faulting,Ae/AM/CE/ME 102 abc or Ae/Ge/ME 160 ab or instructor's permission,"Ae 102 abc, Ae 160 ab"
+Mechanical Engineering,ME,300,ME 300,Research in Mechanical Engineering,,
+Mechanical Engineering,ME,134,ME 134,Robotic Systems,"ME/CS/EE 129, may be taken concurrently, or with permission of instructor",ME 129
+Medical Engineering,MedE,99,MedE 99,Undergraduate Research in Medical Engineering,,
+Medical Engineering,MedE,100 abc,MedE 100 abc,Medical Engineering Seminar,,
+Medical Engineering,MedE,101,MedE 101,Introduction to Clinical Physiology and Pathophysiology for Engineers,"No Prerequisites, Bi 1 or equivalent recommended",
+Medical Engineering,MedE,168 abc,MedE 168 abc,Biomedical Optics: Principles and Imaging,instructor's permission,
+Medical Engineering,MedE,199,MedE 199,Special Topics in Medical Engineering,,
+Medical Engineering,MedE,201 ab,MedE 201 ab,Principles and Design of Medical Devices,instructor's permission,
+Medical Engineering,MedE,202,MedE 202,Sensors in Medicine,none,
+Medical Engineering,MedE,205,MedE 205,New Frontiers in Medical Technologies,"None but knowledge of semiconductor physics and some system engineering, basic electrical engineering highly recommended",
+Medical Engineering,MedE,243,MedE 243,Physiological Mechanics,Ae/APh/CE/ME 101 abc or equivalent or ChE 103 a,"Ae 101 abc, ChE 103 abc"
+Medical Engineering,MedE,268,MedE 268,Medical Imaging,,
+Medical Engineering,MedE,291,MedE 291,Research in Medical Engineering,,
+Neurobiology,NB,150,NB 150,Introduction to Neuroscience,"Bi 8, 9, or instructor's permission","Bi 8, Bi 9"
+Neurobiology,NB,152,NB 152,Neural Circuits and Physiology of Appetite and Body Homeostasis,"Graduate standing or NB/Bi/CNS 150, or equivalent",NB 150
+Neurobiology,NB,154,NB 154,Principles of Neuroscience,NB/Bi/CNS 150 or equivalent,NB 150
+Neurobiology,NB,155,NB 155,Neuropharmacology,NB/Bi/CNS 150,NB 150
+Neurobiology,NB,157,NB 157,Comparative Nervous Systems,instructor's permission,
+Neurobiology,NB,162,NB 162,Cellular and Systems Neuroscience Laboratory,NB/Bi/CNS 150 or instructor's permission,NB 150
+Neurobiology,NB,163,NB 163,The Biological Basis of Neural Disorders,NB/Bi/CNS 150 or instructor's permission,NB 150
+Neurobiology,NB,164,NB 164,Tools of Neurobiology,NB/Bi/CNS 150 or equivalent,NB 150
+Neurobiology,NB,216,NB 216,Behavior of Mammals,,
+Neurobiology,NB,217,NB 217,Central Mechanisms in Perception,,
+Neurobiology,NB,220,NB 220,Genetic Dissection of Neural Circuit Function,NB/Bi/CNS 150 or equivalent. Open to advanced (junior or senior) undergraduates only and with instructor permission,NB 150
+Neurobiology,NB,250 c,NB 250 c,Topics in Systems Neuroscience,graduate standing,
+Neurobiology,NB,299,NB 299,Graduate Research,,
+Physics,Ph,1 abc,Ph 1 abc,Classical Mechanics and Electromagnetism,,
+Physics,Ph,2 abc,Ph 2 abc,"Waves, Quantum Mechanics, and Statistical Physics","Ph 1 abc, Ma 1 abc","Ph 1 abc, Ma 1 abc"
+Physics,Ph,3,Ph 3,Introductory Physics Laboratory,Ph 1 a or instructor's permission,Ph 1 abc
+Physics,Ph,5,Ph 5,Analog Electronics for Physicists,"Ph1abc, Ma1abc, Ma2 taken concurrently","Ph 1 abc, Ma 1 abc, Ma 2/102"
+Physics,Ph,6,Ph 6,Physics Laboratory,"Ph 2 a or Ph 12 a, Ma 2, Ph 3, Ph 2 b or Ph 12 b (may be taken concurrently), Ma 3 (may be taken concurrently)","Ph 2 abc, Ph 12 abc, Ma 2/102, Ma 3/103, Ph 3"
+Physics,Ph,7,Ph 7,Physics Laboratory,"Ph6, Ph2b or Ph12b, Ph2c or Ph12c taken concurrently","Ph 6, Ph 2 abc, Ph 12 abc"
+Physics,Ph,8 bc,Ph 8 bc,Experiments in Electromagnetism,Ph 1 a,Ph 1 abc
+Physics,Ph,10,Ph 10,Frontiers in Physics,,
+Physics,Ph,12 abc,Ph 12 abc,"Waves, Quantum Physics, and Statistical Mechanics","Ph 1 abc, Ma 1 abc, or equivalents","Ph 1 abc, Ma 1 abc"
+Physics,Ph,20,Ph 20,Computational Physics Laboratory I,CS 1 or equivalent,CS 1
+Physics,Ph,21,Ph 21,Computational Physics Laboratory II,Ph 20 or equivalent experience with programming,Ph 20
+Physics,Ph,22,Ph 22,Computational Physics Laboratory III,Ph 20 or equivalent experience with programming and numerical techniques,Ph 20
+Physics,Ph,50 ab,Ph 50 ab,Caltech Physics League,Ph 1 abc,Ph 1 abc
+Physics,Ph,70,Ph 70,Oral and Written Communication,,
+Physics,Ph,77 abc,Ph 77 abc,Advanced Physics Laboratory,Ph 7 or instructor's permission,Ph 7
+Physics,Ph,78 abc,Ph 78 abc,Senior Thesis (Experiment),"To register for this course, the student must obtain approval of the chair of the Physics Undergraduate Committee (Ken Libbrecht)",
+Physics,Ph,79 abc,Ph 79 abc,Senior Thesis (Theory),"To register for this course, the student must obtain approval of the chair of the Physics Undergraduate Committee (Ken Libbrecht)",
+Physics,Ph,101,Ph 101,Order-of-Magnitude Physics,,
+Physics,Ph,105,Ph 105,Analog Electronics for Physicists,"Ph1abc, Ma2, or equivalent","Ph 1 abc, Ma 2/102"
+Physics,Ph,106 abc,Ph 106 abc,Topics in Classical Physics,"Ph 2 ab or Ph 12 abc, Ma 2","Ph 2 abc, Ph 12 abc, Ma 2/102"
+Physics,Ph,118 ab,Ph 118 ab,Physics of Measurement,"Ph 127, APh 105, or equivalent, or permission from instructor","Ph 127 ab, APh 105 abc"
+Physics,Ph,121 abc,Ph 121 abc,Computational Physics Lab,,
+Physics,Ph,125 abc,Ph 125 abc,Quantum Mechanics,"Ma 2 ab, Ph 12 abc or Ph 2 ab, or equivalents","Ma 2/102, Ph 12 abc, Ph 2 abc"
+Physics,Ph,127 ab,Ph 127 ab,"Statistical Physics of Interacting Systems, Phases, and Phase Transitions",Ph 12 c or equivalent; quantum mechanics at the level of Ph 125 ab is required for Ph 127 b; may be taken concurrently,"Ph 12 abc, Ph 125 abc"
+Physics,Ph,129 abc,Ph 129 abc,Mathematical Methods of Physics,"Ma 2 and Ph 2 abc, or equivalent","Ma 2/102, Ph 2 abc"
+Physics,Ph,135,Ph 135,Introduction to Condensed Matter,Ph 125 ab or equivalent or instructor's permission,Ph 125 abc
+Physics,Ph,136 abc,Ph 136 abc,Applications of Classical Physics,Ph 106 ab or equivalent,Ph 106 abc
+Physics,Ph,137 abc,Ph 137 abc,Atoms and Photons,"Ph 125 ab or equivalent, or instructor's permission",Ph 125 abc
+Physics,Ph,139,Ph 139,Introduction to Elementary Particle Physics,"Ph 125 ab or equivalent, or instructor's permission",Ph 125 abc
+Physics,Ph,171,Ph 171,Reading and Independent Study,,
+Physics,Ph,172,Ph 172,Research in Physics,,
+Physics,Ph,177,Ph 177,Advanced Experimental Physics,"Ph 6, Ph 106 a, Ph 125 a or equivalents","Ph 6, Ph 106 abc, Ph 125 abc"
+Physics,Ph,198,Ph 198,Special Topics in Physics,,
+Physics,Ph,199,Ph 199,Frontiers of Fundamental Physics,"Ph 125 ab, Ph 106 ab, or equivalent","Ph 125 abc, Ph 106 abc"
+Physics,Ph,201,Ph 201,Candidacy Physics Fitness,,
+Physics,Ph,203,Ph 203,Nuclear Physics,Ph 125 or equivalent,Ph 125 abc
+Physics,Ph,205 abc,Ph 205 abc,Relativistic Quantum Field Theory,Ph 125,Ph 125 abc
+Physics,Ph,219 abc,Ph 219 abc,Quantum Computation,Ph 125 ab or equivalent,Ph 125 abc
+Physics,Ph,223 ab,Ph 223 ab,Advanced Condensed-Matter Physics,"Ph 135 or equivalent, or instructor's permission",Ph 135
+Physics,Ph,229 abc,Ph 229 abc,Advanced Mathematical Methods of Physics,Ph 129 abc or equivalent,Ph 129 abc
+Physics,Ph,230 abc,Ph 230 abc,Elementary Particle Theory,Ph 205 abc or equivalent,Ph 205 abc
+Physics,Ph,232,Ph 232,Introduction to Topological Field Theory,Ph 205,Ph 205 abc
+Physics,Ph,235 ab,Ph 235 ab,Theoretical Cosmology and Astroparticle Physics,"General Relativity at the level of Ph 236a, and Quantum Field Theory at the level of Ph 205a","Ph 236 abc, Ph 205 abc"
+Physics,Ph,236 abc,Ph 236 abc,General Relativity,"a mastery of special relativity at the level of Goldstein's Classical Mechanics, or of Jackson's Classical Electrodynamics",
+Physics,Ph,237,Ph 237,Gravitational Radiation,"Ph 106 b, Ph 12 b or equivalents","Ph 106 abc, Ph 12 abc"
+Physics,Ph,242 ab,Ph 242 ab,Physics Seminar,,
+Physics,Ph,250,Ph 250,Introduction to String Theory,Ph 205 or equivalent,Ph 205 abc
+Physics,Ph,300,Ph 300,Thesis Research,,
