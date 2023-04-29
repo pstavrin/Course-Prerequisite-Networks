@@ -1,5 +1,5 @@
 # Course-Prerequisite-Networks
-This repository contains the dataset used to run all numerical experiments and visualizations of the following paper on Course Prerequisite Networks (CPNs): https://arxiv.org/abs/2210.01269#
+This repository contains the dataset used to run all numerical experiments and visualizations of the following paper on Course Prerequisite Networks (CPNs): https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00543-w#
 
 
 All data is contained in the file: <code>2021-22-course-prereqs - clean.csv</code>.
